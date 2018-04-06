@@ -28,7 +28,7 @@ Nun schauen wir auf den Heimvorteil pro Saison und Team. Grüne Balken zeigen, d
 
 ![](ringarena_files/figure-markdown_github/unnamed-chunk-12-1.png)
 
-Abschließend die besten Heimteams des ganzen Datensatzes. Die Daten werden für jedes Team gruppiert und die 10 Beobachtungen mit den höchsten Heimvorteilswerten gefiltert. Alle Mannschaften (!) befinden mindestens einmal unter den Top 10 verglichen mit den Werten der Gegner seit 2010. Der Ruf der Ringarena scheint tatsächlich berechtigt!
+Abschließend die besten Heimteams des ganzen Datensatzes. Die Daten werden für jedes Team gruppiert und die 10 Beobachtungen mit den höchsten Heimvorteilswerten gefiltert. Alle Mannschaften (!) befinden sich mindestens einmal unter den Top 10 verglichen mit den Werten der Gegner seit 2010. Der Ruf der Ringarena scheint tatsächlich berechtigt!
 
 ![](ringarena_files/figure-markdown_github/unnamed-chunk-15-1.png)
 
