@@ -2,7 +2,7 @@ Mythos Ringarena
 ================
 Stefan Müller
 
-Die Ringarena, Heimspielstätte der [TSV Bonn rrh.](http://tsv-bonn.de) ist berühmt berüchtigt, sowohl bei den Beueler Handballern als auch bei den Gegnern. Die Beueler schätzen die Halle dank des Räumchens, Gegner fürchten den "Schuhkarton" vor allem aufgrund der Enge und des kleinen Spielfelds.
+Die Ringarena, Heimspielstätte der [TSV Bonn rrh.](http://tsv-bonn.de), ist berühmt berüchtigt, sowohl bei den Beueler Handballern als auch bei den Gegnern. Die TSV'ler schätzen die Halle dank des Räumchens, Gegner fürchten den "Schuhkarton" vor allem aufgrund der Enge und des kleinen Spielfelds.
 
 Liest man Vorberichte der Gegner zu Auswärtsspielen bei der TSV, kommt die Halle an der Ringstraße häufig zur Sprache, eben weil sie so besonders ist. Doch ist die Ringarena tatsächlich ein Vorteil für die Beueler Handballerinnen und Handballer?
 
