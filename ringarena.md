@@ -34,7 +34,7 @@ Nun schauen wir auf den Heimvorteil pro Saison und Team. Grüne Balken zeigen, d
 
 Abschließend die besten Heimteams des ganzen Datensatzes. Die Daten werden für jedes Team gruppiert und die 10 Beobachtungen mit den höchsten Heimvorteilswerten gefiltert. Alle TSV-Mannschaften (!) befinden sich mindestens einmal unter den Top 10 verglichen mit den Werten der Gegner seit 2010. Der Ruf der Ringarena scheint tatsächlich berechtigt!
 
-Interesse oder Ideen für weitergehende Analysen? Gerne bei mir [melden](mullers@tcd.ie).
+Interesse oder Ideen für weitergehende Analysen? Gerne bei mir [melden](http://muellerstefan.net).
 
 ![](ringarena_files/figure-markdown_github/unnamed-chunk-17-1.png)
 
