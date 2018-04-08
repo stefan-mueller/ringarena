@@ -5,7 +5,7 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+knitr::opts_chunk$set(warning = FALSE, echo = FALSE, message = FALSE)
 ```
 
 Die Ringarena, Heimspielstätte der [TSV Bonn rrh.](http://tsv-bonn.de), ist berühmt berüchtigt, sowohl bei den Beueler Handballern als auch bei den Gegnern. Die TSV'ler schätzen die Halle dank des Räumchens, Gegner fürchten den "Schuhkarton" vor allem aufgrund der Enge und des kleinen Spielfelds.
@@ -240,7 +240,7 @@ gg_heimvorteil(gender = "Damen")
 
 Abschließend die besten Heimteams des ganzen Datensatzes. Die Daten werden für jedes Team gruppiert und die 10 Beobachtungen mit den höchsten Heimvorteilswerten gefiltert. Alle TSV-Mannschaften (!) befinden sich mindestens einmal unter den Top 10 verglichen mit den Werten der Gegner seit 2010. Der Ruf der Ringarena scheint tatsächlich berechtigt!
 
-Interesse oder Ideen für weitergehende Analysen? Gerne bei mir [melden](http://muellerstefan.et).
+Interesse oder Ideen für weitergehende Analysen? Gerne bei mir [melden](mullers@tcd.ie).
 
 ```{r,fig.width=8, fig.height=10}
 top_home_advantage <- sis_home_advantage %>% 

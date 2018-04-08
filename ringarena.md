@@ -8,226 +8,34 @@ Liest man Vorberichte der Gegner zu Auswärtsspielen bei der TSV, kommt die Hall
 
 Um das herauszufinden (und um meine Kenntnisse mit dem [**rvest**](https://github.com/hadley/rvest) R package zu verbessern, mit dem man Tabellen von Websiten scrapen kann), habe ich alle Saisonspiele aller Seniorenmannschaften, seit der Saison 2010/2011 von [SIS-Handball](http://sis-handball.de) gescraped. Der gesamte Code und die Daten sind [hier verfügbar](https://github.com/stefan-mueller/ringarena). Da die Websites für alle Ligen und Jahre gleich aufgebaut sind, reichen ca. 20 Zeilen Code (und eine Liste mit den Weblinks für jede Liga und Jahr), um einen Datensatz mit allen Spielen aus den Ligen zu erstellen, in denen ein TSV-Seniorenteam vertreten war. Der Datensatz umfasst insgesamt 6420 Spiele.
 
-``` r
-# load packages
-library(tidyverse)
-library(ggridges)
-library(rvest)
-library(rio)
-
-# set ggplot2 theme
-theme_set(ggthemes::theme_few())
-```
-
-``` r
-# open raw dataset
-df_total <- read_csv("data/tsv_scraped.csv")
-
-# tidy up data frame
-sis_tidy <- df_total %>% 
-  select(c(Nr, Datum, Zeit, Heim, 
-           Gast, Tore, Punkte, season, 
-           team, league, place, 
-           points_won, points_lost)) %>% 
-  mutate(game_id = paste(season, Nr, sep = "_")) %>% 
-  separate(Tore, into = c("goals_home", "goals_away"), 
-           sep = ":") %>% 
-  mutate(result = if_else(goals_home > goals_away, 
-                          "Sieg Heimmannschaft",
-                          if_else(goals_home < goals_away, 
-                                  "Sieg Auswärtsmannschaft",
-                                  "Unentschieden")))
-```
-
 Mit diesem Datensatz lässt sich nun der "Heimvorteil" berechnen (siehe u.a. [Pollard et al. 2017](https://www.tandfonline.com/doi/abs/10.1080/24748668.2017.1372164)). Grob gesprochen kann der Wert für jedes Team in der Saison zwischen 0 und 1 liegen. Ein Wert von 1 bedeutet, dass alle Punkte daheim eingefahren wurde, eine 0 impliziert, dass ein Team Punkte lediglich auswärts errungen hat. Folglich markieren alle Werte über 0.5 einen Heimvorteil: das Team hat mehr Heim- als Auswärtspunkte gesammelt.
 
-``` r
-# convert to long format        
-sis_long <- sis_tidy %>% 
-  gather(key = match_type, value = team_league, 
-         -c(Nr, game_id, team, season, Datum, Zeit, 
-            goals_home, goals_away, result, league, Punkte, Nr,
-            season, place, points_won, points_lost)) %>% 
-  arrange(team, game_id) 
-
-# clean names of TSV teams
-sis_long <- sis_long %>% 
-  mutate(team_league_clean = if_else(grepl("TSV Bonn rrh.", team_league), "TSV Bonn rrh.", team_league)) %>% 
-  mutate(tsv_dummy = if_else(team_league_clean == "TSV Bonn rrh.", "TSV Bonn rrh.", "Gegner")) %>% 
-  mutate(result_num = if_else(result == "Sieg Heimmannschaft", 1, 
-                              if_else(result == "Sieg Auswärtsmannschaft", 0, 0.5))) %>% 
-  mutate(male_female = if_else(grepl("Herren", team), "Herren", "Damen")) %>% 
-  mutate(year = as.numeric(substr(season, 1, 4))) %>% 
-  mutate(goals_team_match = as.numeric(if_else(match_type == "Heim", goals_home, goals_away)))
-
-# filter only TSV teams
-sis_long_tsv <- sis_long %>% 
-  filter(tsv_dummy == "TSV Bonn rrh.")
-
-league_recode <- c("'1. Kreisklasse'='1. KK';
-                   '2. Kreisklasse'='2. KK';
-                   '3. Kreisklasse'='3. KK';
-                   'Kreisliga'='KL';
-                   'Landesliga'='LL';
-                   'Nordrheinliga'='NL';
-                   'Oberliga'='OL';
-                   'Verbandsliga'='VL'")
-
-sis_long_tsv <- sis_long_tsv %>% 
-  mutate(league_abb = car::recode(league, league_recode)) %>% 
-  mutate(league_place = paste0(league_abb, ": ", place))
-
-sis_long_tsv$team <- factor(sis_long_tsv$team, 
-                               levels = c("1. Herren", "2. Herren", 
-                                          "3. Herren", "4. Herren",
-                                          "1. Damen", "2. Damen"))
-sis_long_tsv_text <- sis_long_tsv %>% 
-  select(year, team, league_place) %>% 
-  unique()
-```
-
-``` r
-# calculate home advantage
-sis_home_advantage <- sis_long %>% 
-  group_by(season, team_league, league) %>% ## important!
-  mutate(Mean = mean(result_num, na.rm = TRUE)) %>% 
-  select(season, Mean, tsv_dummy, 
-         place, team_league, team, 
-         team_league_clean, male_female, league) %>% 
-  unique() %>% 
-  mutate(pos_neg = if_else(Mean < 0.5, "negative", "positive"))
-```
-
 Schauen wir zunächst, ob es überhaupt einen Heimvorteil gibt. Hierfür plotte ich die Verteilung der Werte aller Teams (aufgesplittet nach TSV-Teams und Gegnern). Jeder Punkt zeigt eine Saison eines Teams. Der Median (roter horizontaler Balken) liegt in beiden Gruppen bei etwa 0.6. Es gibt auf HVM- und Kreisebene eindeutig einen Heimvorteil.
-
-``` r
-ggplot(sis_home_advantage, aes(x = tsv_dummy, y  = Mean)) +
-  geom_boxplot(colour = "red") +
-  ggbeeswarm::geom_quasirandom(alpha = 0.6) +
-  scale_y_continuous(limits = c(0, 1)) + 
-  geom_hline(yintercept = 0.5) +
-  labs(x = NULL, y = "Heimvorteil")
-```
 
 ![](ringarena_files/figure-markdown_github/unnamed-chunk-6-1.png)
 
 Als nächstes schauen wir uns das Ganze pro TSV-Team an. Die kurzen schwarzen Balken auf der X-Achse markieren die Observationen (Werte pro Saison), die Kurve ist eine simple Häufigkeitsverteilung, der lange vertikale Balken markiert den Median. Bei den Herren sind vor allem die Zweit-, Dritt- und Viertvertretung merklich stärker in der Ringarena als in fremden Hallen. Bei der "Ersten" ist der Unterschied deutlich geringer. Die dritte Damenmannschaft wurde übrigens ausgeschlossen, weil sie nicht seit 2010 besteht.
 
-``` r
-# function for plot
-gg_home_density <- function(data = sis_home_advantage, 
-                           gender = c("Herren", "Damen")) {
-  
-  data %>% 
-    filter(male_female %in% gender) %>% 
-    ggplot(aes(x = Mean, y = tsv_dummy)) +
-    geom_density_ridges(jittered_points = TRUE,
-                      quantile_lines = TRUE, 
-                      quantiles = 2, fill = "grey90",
-                      position = position_points_jitter(width = 0.05, height = 0),
-                      point_shape = '|', point_size = 3, alpha = 0.7) +
-    facet_wrap(~team) +
-    scale_x_continuous(limits = c(0, 1)) +
-    labs(x = "Heimvorteil", y = NULL)
-}
-```
-
-``` r
-gg_home_density(gender = "Herren")
-```
-
 ![](ringarena_files/figure-markdown_github/unnamed-chunk-9-1.png)
 
 Die zweite Damenmannschaft ist das einzige Team mit einem niedrigeren Medianwert für die Heimvorteilsskala als der Gegner.
-
-``` r
-gg_home_density(gender = "Damen")
-```
 
 ![](ringarena_files/figure-markdown_github/unnamed-chunk-10-1.png)
 
 Der Datensatz erlaubt es, Änderungen im Zeitverlauf anzuschauen. Der folgende Plot zeigt die Anzahl an geworfenen TSV-Toren in Heim-und Auswärtsspielen pro Saison und Team. Die grauen Flächen markieren Konfidenzintervalle, schließlich ist die Anzahl an Toren nicht konstant, sondern variiert innerhalb einer Saison. Der folgende Plot ist sehr interessant. Oben befindet sich die Liga und Abschlussplatzierung. Fast immer liegt die grüne Linie über der roten - es wurden also mehr Tore im Mittelwert in der Ringarena als auswärts erziehlt. Ausnahmen bildet die 2. Herren 2015/16, die Dritte in der jetzigen Saison und die 4. Herren 2010/2011. Einige interessante Beobachtunge. Seit der Saison 2015/16 hat die Anzahl an Toren bei der 1. Herren zugenommen bei der 2. Herren sehen wir einen negativen Trend im Zeitverlauf. Die "Dritte" hat einen klaren positiven Ausreißer im Jahr 2013/14, als die Kreismeisterschaft errungen wurde. Der Trend der Vierten Herren zeigt seit 2015 deutlich nach oben? Verjüngung des Kaders oder x-ter Frühling der Spieler? Außerdem wird die Heimdominzanz der 1. Damen in den vergangenen zwei Spielzeiten sehr deutlich.
 
-``` r
-ggplot(data = sis_long_tsv, aes(x = year, y = goals_team_match, colour = match_type)) +
-  geom_smooth() +
-  scale_x_continuous(limits = c(2009.5, 2017.5), breaks = c(seq(2010, 2017, 1))) +
-  scale_y_continuous(limits = c(20, 35)) +
-  scale_colour_discrete(name = NULL, 
-                        labels = c("Auswärtsspiel", "Heimspiel")) +
-  facet_wrap(~team, ncol = 2, scales = "free_x") +
-  geom_text(data = sis_long_tsv_text, aes(x = year, y = 34, label = league_place), size = 3, inherit.aes = FALSE) +
-  theme(legend.position = "bottom") +
-  labs(x = "Saison", y = "Durchschnitt an Toren (und Konfidenzintervalle)")
-```
-
 ![](ringarena_files/figure-markdown_github/unnamed-chunk-11-1.png)
 
 Nun schauen wir auf den Heimvorteil pro Saison und Team. Grüne Balken zeigen, dass mehr Punkte in der Ringarena als in fremden Hallen gesammelt wurden. Bis auf drei Saisons (1. und 2. Herren in 2010/2011 und 2. Damen 2015/2016) haben alle TSV-Seniorenteams mehr Punkte in der Ringarena als auswärts geholt.
 
-``` r
-# filter only TSV teams from home advantage calculation
-sis_home_advantage_tsv <- sis_home_advantage %>%
-  filter(team_league_clean == "TSV Bonn rrh.")  %>% 
-  filter(!team_league %in% c("TSV Bonn rrh. Fr. 3", "TSV Bonn rrh. F3"))
-
-# function for plot
-gg_heimvorteil <- function(data = sis_home_advantage_tsv, 
-                           gender = c("Herren", "Damen")) {
-  sis_home_advantage_tsv %>% 
-    filter(male_female %in% gender) %>% 
-    ggplot(aes(x = Mean, y = season, colour = pos_neg)) +
-  geom_point() +
-  geom_segment(aes(x = 0.5, y = season, xend = Mean, yend = season)) +
-  geom_vline(xintercept = 0.5, linetype = "dotted") +
-  scale_fill_brewer(palette = "Set1") +
-  scale_x_continuous(limits = c(0.1, 0.8)) +
-  labs(x = "Heimvorteil", y = NULL) +
-  facet_wrap(~team) +
-  theme(legend.position = "none")
-}
-```
-
-``` r
-gg_heimvorteil(gender = "Herren")
-```
-
 ![](ringarena_files/figure-markdown_github/unnamed-chunk-13-1.png)
-
-``` r
-gg_heimvorteil(gender = "Damen")
-```
 
 ![](ringarena_files/figure-markdown_github/unnamed-chunk-14-1.png)
 
 Abschließend die besten Heimteams des ganzen Datensatzes. Die Daten werden für jedes Team gruppiert und die 10 Beobachtungen mit den höchsten Heimvorteilswerten gefiltert. Alle TSV-Mannschaften (!) befinden sich mindestens einmal unter den Top 10 verglichen mit den Werten der Gegner seit 2010. Der Ruf der Ringarena scheint tatsächlich berechtigt!
 
-Interesse oder Ideen für weitergehende Analysen? Gerne bei mir [melden](http://muellerstefan.et).
-
-``` r
-top_home_advantage <- sis_home_advantage %>% 
-  group_by(team) %>% 
-  top_n(Mean, n = 10) %>%
-  ungroup() %>% 
-  select(season, team, team_league_clean, Mean, tsv_dummy, male_female) %>% 
-  arrange(team, -Mean) %>% 
-  mutate(team_season = paste0(team_league_clean, " (", season, ")")) 
-
-top_home_advantage_male <- top_home_advantage %>% 
-  filter(male_female == "Herren")
-
-top_home_advantage_female <- top_home_advantage %>% 
-  filter(male_female == "Damen")
-```
-
-``` r
-gg_top_home(data = top_home_advantage_male)
-```
+Interesse oder Ideen für weitergehende Analysen? Gerne bei mir [melden](mullers@tcd.ie).
 
 ![](ringarena_files/figure-markdown_github/unnamed-chunk-17-1.png)
-
-``` r
-gg_top_home(data = top_home_advantage_female)
-```
 
 ![](ringarena_files/figure-markdown_github/unnamed-chunk-18-1.png)
