@@ -167,6 +167,12 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 187,24.03.18,19:15,TuS 82 Opladen,NA,TuSEM Essen II,26:17,2:0,NA,NA,2017/2018,1. Herren,Nordrheinliga,2,35,11
 188,25.03.18,16:00,VfB Homberg,NA,Bergischer Handball Club (BHC) II,27:30,0:2,NA,NA,2017/2018,1. Herren,Nordrheinliga,2,35,11
 190,25.03.18,18:15,HSG Neuss/Düsseldorf II,NA,TV Rheinbach,25:22,2:0,NA,NA,2017/2018,1. Herren,Nordrheinliga,2,35,11
+198,07.04.18,18:30,DJK Adler Königshof,NA,HSG Siebengebirge,21:29,0:2,NA,NA,2017/2018,1. Herren,Nordrheinliga,2,35,11
+193,07.04.18,19:00,TV Aldekerk,NA,SG Ratingen 2011,26:29,0:2,NA,NA,2017/2018,1. Herren,Nordrheinliga,2,35,11
+200,07.04.18,19:00,TV Rheinbach,NA,TV Jahn Köln-Wahn,22:28,0:2,NA,NA,2017/2018,1. Herren,Nordrheinliga,2,35,11
+194,07.04.18,19:30,TSV Bonn rrh.,NA,VfB Homberg,32:30,2:0,NA,NA,2017/2018,1. Herren,Nordrheinliga,2,35,11
+199,07.04.18,19:45,Weidener TV,NA,HSG Neuss/Düsseldorf II,21:22,0:2,NA,NA,2017/2018,1. Herren,Nordrheinliga,2,35,11
+197,08.04.18,16:00,HC Wölfe Nordrhein,NA,SG Langenfeld,25:25,1:1,NA,NA,2017/2018,1. Herren,Nordrheinliga,2,35,11
 7,17.09.16,18:30,VfB Homberg,NA,Borussia M´gladbach,28:26,2:0,NA,NA,2016/2017,1. Herren,Nordrheinliga,4,34,18
 4,17.09.16,19:00,HSG Rheinbach-Wormersdorf,NA,TV Jahn Köln-Wahn,22:21,2:0,NA,NA,2016/2017,1. Herren,Nordrheinliga,4,34,18
 5,17.09.16,19:00,ART Düsseldorf,NA,Pulheimer SC,30:22,2:0,NA,NA,2016/2017,1. Herren,Nordrheinliga,4,34,18
@@ -351,9 +357,9 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 176,13.05.17,19:45,Weidener TV,NA,TuSEM Essen II,32:30,2:0,NA,NA,2016/2017,1. Herren,Nordrheinliga,4,34,18
 2,05.09.15,17:30,HSG Siebengebirge-Thomasberg,NA,TuS 82 Opladen,29:35,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 3,05.09.15,18:30,TV Jahn Köln-Wahn,NA,TuS Derschlag,32:25,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-1,05.09.15,19:30,Pulheimer SC,NA,DJK Westwacht Weiden,30:21,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-5,05.09.15,19:30,TSV Bonn rrh.,NA,HSG Rheinbach-Wormersdorf,26:20,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 6,05.09.15,19:30,HSG Niederpleis / St. Augustin,NA,MTV Köln 1850,19:32,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+5,05.09.15,19:30,TSV Bonn rrh.,NA,HSG Rheinbach-Wormersdorf,26:20,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+1,05.09.15,19:30,Pulheimer SC,NA,DJK Westwacht Weiden,30:21,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 7,05.09.15,19:45,Weidener TV,NA,BTB Aachen,30:19,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 4,06.09.15,17:00,TV Strombach,NA,TSV Bayer Dormagen 2,26:24,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 10,12.09.15,17:00,TSV Bayer Dormagen 2,NA,TV Jahn Köln-Wahn,19:28,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
@@ -366,9 +372,9 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 17,19.09.15,17:30,HSG Siebengebirge-Thomasberg,NA,Weidener TV,25:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 18,19.09.15,18:30,TV Jahn Köln-Wahn,NA,HSG Rheinbach-Wormersdorf,25:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 15,19.09.15,19:30,Pulheimer SC,NA,TSV Bayer Dormagen 2,30:20,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-16,19.09.15,19:30,DJK Westwacht Weiden,NA,TuS Derschlag,36:21,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-20,19.09.15,19:30,TSV Bonn rrh.,NA,BTB Aachen,33:30,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 21,19.09.15,19:30,HSG Niederpleis / St. Augustin,NA,TuS 82 Opladen,25:32,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+20,19.09.15,19:30,TSV Bonn rrh.,NA,BTB Aachen,33:30,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+16,19.09.15,19:30,DJK Westwacht Weiden,NA,TuS Derschlag,36:21,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 19,20.09.15,17:00,TV Strombach,NA,MTV Köln 1850,26:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 22,26.09.15,19:00,HSG Rheinbach-Wormersdorf,NA,Pulheimer SC,24:29,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 27,26.09.15,19:15,TuS 82 Opladen,NA,TSV Bonn rrh.,32:30,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
@@ -387,35 +393,35 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 39,24.10.15,17:00,TSV Bayer Dormagen 2,NA,HSG Siebengebirge-Thomasberg,27:25,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 38,24.10.15,19:00,HSG Rheinbach-Wormersdorf,NA,TuS Derschlag,34:22,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 40,24.10.15,19:15,TuS 82 Opladen,NA,TV Jahn Köln-Wahn,31:39,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-36,24.10.15,19:30,BTB Aachen,NA,Pulheimer SC,26:31,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 42,24.10.15,19:30,HSG Niederpleis / St. Augustin,NA,TSV Bonn rrh.,21:30,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+36,24.10.15,19:30,BTB Aachen,NA,Pulheimer SC,26:31,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 41,24.10.15,19:45,Weidener TV,NA,TV Strombach,25:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 37,25.10.15,15:15,MTV Köln 1850,NA,DJK Westwacht Weiden,20:26,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 46,31.10.15,16:30,TSV Bayer Dormagen 2,NA,HSG Rheinbach-Wormersdorf,33:33,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 47,31.10.15,17:30,HSG Siebengebirge-Thomasberg,NA,TSV Bonn rrh.,21:29,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+48,31.10.15,19:30,TV Jahn Köln-Wahn,NA,Weidener TV,28:24,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 43,31.10.15,19:30,Pulheimer SC,NA,TuS 82 Opladen,23:34,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 44,31.10.15,19:30,DJK Westwacht Weiden,NA,BTB Aachen,27:19,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-48,31.10.15,19:30,TV Jahn Köln-Wahn,NA,Weidener TV,28:24,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 45,31.10.15,20:00,TuS Derschlag,NA,MTV Köln 1850,27:30,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 49,01.11.15,17:00,TV Strombach,NA,HSG Niederpleis / St. Augustin,24:24,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 54,07.11.15,19:00,HSG Rheinbach-Wormersdorf,NA,HSG Siebengebirge-Thomasberg,35:26,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 51,07.11.15,19:15,TuS 82 Opladen,NA,DJK Westwacht Weiden,32:25,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 52,07.11.15,19:30,BTB Aachen,NA,TuS Derschlag,32:32,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-55,07.11.15,19:30,HSG Niederpleis / St. Augustin,NA,TV Jahn Köln-Wahn,15:28,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 56,07.11.15,19:30,TSV Bonn rrh.,NA,TV Strombach,24:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+55,07.11.15,19:30,HSG Niederpleis / St. Augustin,NA,TV Jahn Köln-Wahn,15:28,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 50,07.11.15,19:45,Weidener TV,NA,Pulheimer SC,34:28,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 53,08.11.15,15:15,MTV Köln 1850,NA,TSV Bayer Dormagen 2,28:28,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 63,14.11.15,18:30,TV Jahn Köln-Wahn,NA,TSV Bonn rrh.,23:21,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 61,14.11.15,19:00,HSG Rheinbach-Wormersdorf,NA,MTV Köln 1850,22:23,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-57,14.11.15,19:30,Pulheimer SC,NA,HSG Niederpleis / St. Augustin,33:27,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 58,14.11.15,19:30,DJK Westwacht Weiden,NA,Weidener TV,25:32,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+57,14.11.15,19:30,Pulheimer SC,NA,HSG Niederpleis / St. Augustin,33:27,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 59,14.11.15,20:00,TuS Derschlag,NA,TuS 82 Opladen,30:32,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 60,15.11.15,16:30,TSV Bayer Dormagen 2,NA,BTB Aachen,33:37,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 62,15.11.15,17:00,TV Strombach,NA,HSG Siebengebirge-Thomasberg,25:32,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 67,21.11.15,19:15,TuS 82 Opladen,NA,TSV Bayer Dormagen 2,31:27,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+68,21.11.15,19:30,BTB Aachen,NA,HSG Rheinbach-Wormersdorf,29:24,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 64,21.11.15,19:30,TSV Bonn rrh.,NA,Pulheimer SC,20:26,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 65,21.11.15,19:30,HSG Niederpleis / St. Augustin,NA,DJK Westwacht Weiden,24:31,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-68,21.11.15,19:30,BTB Aachen,NA,HSG Rheinbach-Wormersdorf,29:24,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 66,21.11.15,19:45,Weidener TV,NA,TuS Derschlag,28:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 70,22.11.15,17:00,TV Strombach,NA,TV Jahn Köln-Wahn,23:33,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 69,22.11.15,18:00,MTV Köln 1850,NA,HSG Siebengebirge-Thomasberg,19:25,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
@@ -424,8 +430,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 72,28.11.15,19:30,DJK Westwacht Weiden,NA,TSV Bonn rrh.,28:26,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 73,28.11.15,20:00,TuS Derschlag,NA,HSG Niederpleis / St. Augustin,21:29,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 76,29.11.15,15:15,MTV Köln 1850,NA,BTB Aachen,39:29,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-74,29.11.15,16:00,TSV Bayer Dormagen 2,NA,Weidener TV,27:28,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 75,29.11.15,16:00,HSG Rheinbach-Wormersdorf,NA,TuS 82 Opladen,23:23,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+74,29.11.15,16:00,TSV Bayer Dormagen 2,NA,Weidener TV,27:28,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 78,05.12.15,18:30,TV Jahn Köln-Wahn,NA,Pulheimer SC,32:22,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 83,05.12.15,19:15,TuS 82 Opladen,NA,MTV Köln 1850,36:31,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 80,05.12.15,19:30,TSV Bonn rrh.,NA,TuS Derschlag,32:27,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
@@ -434,25 +440,25 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 79,06.12.15,17:00,TV Strombach,NA,DJK Westwacht Weiden,35:22,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 88,12.12.15,16:00,TSV Bayer Dormagen 2,NA,TSV Bonn rrh.,34:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 89,12.12.15,19:00,HSG Rheinbach-Wormersdorf,NA,HSG Niederpleis / St. Augustin,31:13,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+91,12.12.15,19:30,BTB Aachen,NA,TuS 82 Opladen,35:28,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 85,12.12.15,19:30,Pulheimer SC,NA,HSG Siebengebirge-Thomasberg,35:27,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 86,12.12.15,19:30,DJK Westwacht Weiden,NA,TV Jahn Köln-Wahn,30:30,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-91,12.12.15,19:30,BTB Aachen,NA,TuS 82 Opladen,35:28,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 90,13.12.15,15:15,MTV Köln 1850,NA,Weidener TV,30:33,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 87,13.12.15,17:00,TuS Derschlag,NA,TV Strombach,26:27,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 84,19.12.15,18:00,BTB Aachen,NA,HSG Siebengebirge-Thomasberg,30:27,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 95,09.01.16,18:30,TSV Bayer Dormagen 2,NA,TV Strombach,29:26,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 96,09.01.16,19:00,HSG Rheinbach-Wormersdorf,NA,TSV Bonn rrh.,27:20,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 93,09.01.16,19:15,TuS 82 Opladen,NA,HSG Siebengebirge-Thomasberg,29:24,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-92,09.01.16,19:30,DJK Westwacht Weiden,NA,Pulheimer SC,21:27,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 94,09.01.16,19:30,TuS Derschlag,NA,TV Jahn Köln-Wahn,17:29,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 98,09.01.16,19:30,BTB Aachen,NA,Weidener TV,29:31,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+92,09.01.16,19:30,DJK Westwacht Weiden,NA,Pulheimer SC,21:27,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 97,10.01.16,15:15,MTV Köln 1850,NA,HSG Niederpleis / St. Augustin,23:24,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 100,16.01.16,17:30,HSG Siebengebirge-Thomasberg,NA,DJK Westwacht Weiden,28:30,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 101,16.01.16,18:30,TV Jahn Köln-Wahn,NA,TSV Bayer Dormagen 2,33:27,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 99,16.01.16,19:30,Pulheimer SC,NA,TuS Derschlag,28:27,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 104,16.01.16,19:30,HSG Niederpleis / St. Augustin,NA,BTB Aachen,26:34,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-103,16.01.16,19:45,TSV Bonn rrh.,NA,MTV Köln 1850,23:25,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 105,16.01.16,19:45,Weidener TV,NA,TuS 82 Opladen,27:27,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+103,16.01.16,19:45,TSV Bonn rrh.,NA,MTV Köln 1850,23:25,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 102,17.01.16,17:00,TV Strombach,NA,HSG Rheinbach-Wormersdorf,15:28,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 106,23.01.16,19:00,TSV Bayer Dormagen 2,NA,Pulheimer SC,21:32,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 109,23.01.16,19:00,HSG Rheinbach-Wormersdorf,NA,TV Jahn Köln-Wahn,22:22,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
@@ -464,73 +470,73 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 115,30.01.16,17:30,HSG Siebengebirge-Thomasberg,NA,TuS Derschlag,31:22,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 116,30.01.16,18:30,TV Jahn Köln-Wahn,NA,MTV Köln 1850,31:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 113,30.01.16,19:30,Pulheimer SC,NA,HSG Rheinbach-Wormersdorf,29:31,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-114,30.01.16,19:30,DJK Westwacht Weiden,NA,TSV Bayer Dormagen 2,32:20,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 118,30.01.16,19:30,TSV Bonn rrh.,NA,TuS 82 Opladen,23:28,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+114,30.01.16,19:30,DJK Westwacht Weiden,NA,TSV Bayer Dormagen 2,32:20,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 119,30.01.16,19:30,HSG Niederpleis / St. Augustin,NA,Weidener TV,19:30,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 117,31.01.16,11:00,TV Strombach,NA,BTB Aachen,21:34,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 121,13.02.16,19:00,HSG Rheinbach-Wormersdorf,NA,DJK Westwacht Weiden,27:25,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 125,13.02.16,19:15,TuS 82 Opladen,NA,TV Strombach,48:20,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-123,13.02.16,19:30,HSG Niederpleis / St. Augustin,NA,HSG Siebengebirge-Thomasberg,23:25,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 124,13.02.16,19:30,BTB Aachen,NA,TV Jahn Köln-Wahn,28:14,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+123,13.02.16,19:30,HSG Niederpleis / St. Augustin,NA,HSG Siebengebirge-Thomasberg,23:25,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 126,13.02.16,19:45,Weidener TV,NA,TSV Bonn rrh.,24:24,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 120,14.02.16,15:15,MTV Köln 1850,NA,Pulheimer SC,25:25,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 130,20.02.16,17:30,HSG Siebengebirge-Thomasberg,NA,TSV Bayer Dormagen 2,23:22,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 131,20.02.16,18:30,TV Jahn Köln-Wahn,NA,TuS 82 Opladen,24:27,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+133,20.02.16,19:30,TSV Bonn rrh.,NA,HSG Niederpleis / St. Augustin,31:15,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+129,20.02.16,19:30,TuS Derschlag,NA,HSG Rheinbach-Wormersdorf,23:32,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 127,20.02.16,19:30,Pulheimer SC,NA,BTB Aachen,30:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 128,20.02.16,19:30,DJK Westwacht Weiden,NA,MTV Köln 1850,24:33,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-129,20.02.16,19:30,TuS Derschlag,NA,HSG Rheinbach-Wormersdorf,23:32,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-133,20.02.16,19:30,TSV Bonn rrh.,NA,HSG Niederpleis / St. Augustin,31:15,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 132,21.02.16,17:00,TV Strombach,NA,Weidener TV,23:26,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 122,24.02.16,20:15,TSV Bayer Dormagen 2,NA,TuS Derschlag,37:28,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 137,27.02.16,19:00,HSG Rheinbach-Wormersdorf,NA,TSV Bayer Dormagen 2,33:18,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 134,27.02.16,19:15,TuS 82 Opladen,NA,Pulheimer SC,33:30,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+140,27.02.16,19:30,HSG Niederpleis / St. Augustin,NA,TV Strombach,24:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 135,27.02.16,19:30,BTB Aachen,NA,DJK Westwacht Weiden,30:24,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 138,27.02.16,19:30,TSV Bonn rrh.,NA,HSG Siebengebirge-Thomasberg,24:24,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-140,27.02.16,19:30,HSG Niederpleis / St. Augustin,NA,TV Strombach,24:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 139,27.02.16,19:45,Weidener TV,NA,TV Jahn Köln-Wahn,30:25,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 136,28.02.16,15:15,MTV Köln 1850,NA,TuS Derschlag,40:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 144,05.03.16,17:00,TSV Bayer Dormagen 2,NA,MTV Köln 1850,28:28,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 145,05.03.16,17:30,HSG Siebengebirge-Thomasberg,NA,HSG Rheinbach-Wormersdorf,20:32,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 146,05.03.16,18:30,TV Jahn Köln-Wahn,NA,HSG Niederpleis / St. Augustin,36:28,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-141,05.03.16,19:30,Pulheimer SC,NA,Weidener TV,40:29,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 142,05.03.16,19:30,DJK Westwacht Weiden,NA,TuS 82 Opladen,24:30,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 143,05.03.16,19:30,TuS Derschlag,NA,BTB Aachen,32:39,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+141,05.03.16,19:30,Pulheimer SC,NA,Weidener TV,40:29,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 147,06.03.16,17:00,TV Strombach,NA,TSV Bonn rrh.,19:31,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 153,11.03.16,20:00,HSG Siebengebirge-Thomasberg,NA,TV Strombach,34:24,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 150,12.03.16,19:15,TuS 82 Opladen,NA,TuS Derschlag,0:0,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+154,12.03.16,19:30,TSV Bonn rrh.,NA,TV Jahn Köln-Wahn,30:26,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 148,12.03.16,19:30,HSG Niederpleis / St. Augustin,NA,Pulheimer SC,22:32,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 151,12.03.16,19:30,BTB Aachen,NA,TSV Bayer Dormagen 2,34:18,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-154,12.03.16,19:30,TSV Bonn rrh.,NA,TV Jahn Köln-Wahn,30:26,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 149,12.03.16,19:45,Weidener TV,NA,DJK Westwacht Weiden,24:29,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 152,13.03.16,15:15,MTV Köln 1850,NA,HSG Rheinbach-Wormersdorf,17:33,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 160,19.03.16,17:30,HSG Siebengebirge-Thomasberg,NA,MTV Köln 1850,26:19,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 159,19.03.16,19:00,HSG Rheinbach-Wormersdorf,NA,BTB Aachen,31:29,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-155,19.03.16,19:30,Pulheimer SC,NA,TSV Bonn rrh.,33:29,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 156,19.03.16,19:30,DJK Westwacht Weiden,NA,HSG Niederpleis / St. Augustin,18:22,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+155,19.03.16,19:30,Pulheimer SC,NA,TSV Bonn rrh.,33:29,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 157,19.03.16,19:30,TuS Derschlag,NA,Weidener TV,22:39,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 161,19.03.16,20:00,TV Jahn Köln-Wahn,NA,TV Strombach,24:19,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 158,20.03.16,14:00,TSV Bayer Dormagen 2,NA,TuS 82 Opladen,22:24,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 168,02.04.16,18:30,TV Jahn Köln-Wahn,NA,HSG Siebengebirge-Thomasberg,28:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 166,02.04.16,19:15,TuS 82 Opladen,NA,HSG Rheinbach-Wormersdorf,27:25,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 163,02.04.16,19:30,TSV Bonn rrh.,NA,DJK Westwacht Weiden,32:24,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-164,02.04.16,19:30,HSG Niederpleis / St. Augustin,NA,TuS Derschlag,31:30,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 167,02.04.16,19:30,BTB Aachen,NA,MTV Köln 1850,30:25,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+164,02.04.16,19:30,HSG Niederpleis / St. Augustin,NA,TuS Derschlag,31:30,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 165,02.04.16,19:45,Weidener TV,NA,TSV Bayer Dormagen 2,39:27,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 162,03.04.16,17:00,TV Strombach,NA,Pulheimer SC,17:34,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 172,09.04.16,17:00,TSV Bayer Dormagen 2,NA,HSG Niederpleis / St. Augustin,31:24,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 175,09.04.16,17:30,HSG Siebengebirge-Thomasberg,NA,BTB Aachen,27:26,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 173,09.04.16,19:00,HSG Rheinbach-Wormersdorf,NA,Weidener TV,25:27,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-169,09.04.16,19:30,Pulheimer SC,NA,TV Jahn Köln-Wahn,28:30,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-170,09.04.16,19:30,DJK Westwacht Weiden,NA,TV Strombach,25:25,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 171,09.04.16,19:30,TuS Derschlag,NA,TSV Bonn rrh.,31:35,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+170,09.04.16,19:30,DJK Westwacht Weiden,NA,TV Strombach,25:25,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+169,09.04.16,19:30,Pulheimer SC,NA,TV Jahn Köln-Wahn,28:30,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 174,10.04.16,15:15,MTV Köln 1850,NA,TuS 82 Opladen,31:25,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-176,16.04.16,19:30,HSG Siebengebirge-Thomasberg,NA,Pulheimer SC,27:27,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 177,16.04.16,19:30,TV Jahn Köln-Wahn,NA,DJK Westwacht Weiden,32:23,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+176,16.04.16,19:30,HSG Siebengebirge-Thomasberg,NA,Pulheimer SC,27:27,1:1,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 178,16.04.16,19:30,TV Strombach,NA,TuS Derschlag,27:29,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-179,16.04.16,19:30,TSV Bonn rrh.,NA,TSV Bayer Dormagen 2,24:17,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
-180,16.04.16,19:30,HSG Niederpleis / St. Augustin,NA,HSG Rheinbach-Wormersdorf,21:33,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 181,16.04.16,19:30,Weidener TV,NA,MTV Köln 1850,32:26,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+179,16.04.16,19:30,TSV Bonn rrh.,NA,TSV Bayer Dormagen 2,24:17,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 182,16.04.16,19:30,TuS 82 Opladen,NA,BTB Aachen,39:37,2:0,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
+180,16.04.16,19:30,HSG Niederpleis / St. Augustin,NA,HSG Rheinbach-Wormersdorf,21:33,0:2,NA,NA,2015/2016,1. Herren,Oberliga,6,30,22
 1,06.09.14,18:00,Longericher SC,NA,DJK Westwacht Weiden,34:25,2:0,NA,NA,2014/2015,1. Herren,Oberliga,10,23,29
 5,06.09.14,19:00,TuS Derschlag,NA,HSG Rheinbach-Wormersdorf,23:19,2:0,NA,NA,2014/2015,1. Herren,Oberliga,10,23,29
 3,06.09.14,19:30,Pulheimer SC,NA,HSG Siebengebirge/Thomasberg,32:28,2:0,NA,NA,2014/2015,1. Herren,Oberliga,10,23,29
@@ -1677,20 +1683,20 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 13,27.09.15,17:00,TV Oberbantenberg,NA,HSV Frechen,22:27,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 18,27.09.15,18:00,SSV Nümbrecht,NA,ASV SR Aachen,23:22,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 14,28.09.15,20:30,Dünnwalder TV,NA,Pulheimer SC,27:24,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
-19,03.10.15,17:30,TSV Bonn rrh.,NA,TV Oberbantenberg,26:21,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 21,03.10.15,17:30,Pulheimer SC,NA,SC Fortuna Köln,27:23,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
+19,03.10.15,17:30,TSV Bonn rrh.,NA,TV Oberbantenberg,26:21,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 23,03.10.15,18:00,ASV SR Aachen,NA,TuS Königsdorf,22:22,1:1,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 22,04.10.15,16:00,SG Ollheim-Straßfeld,NA,TV Strombach,25:22,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 24,04.10.15,16:00,TV Roetgen,NA,SSV Nümbrecht,24:24,1:1,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 27,24.10.15,17:30,Pulheimer SC,NA,HSV Frechen,32:29,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 28,24.10.15,18:00,SC Fortuna Köln,NA,SSV Nümbrecht,30:27,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 29,24.10.15,20:00,TV Strombach,NA,ASV SR Aachen,34:25,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
-25,25.10.15,17:00,TV Oberbantenberg,NA,SG Ollheim-Straßfeld,23:25,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 30,25.10.15,17:00,TuS Königsdorf,NA,TV Roetgen,28:19,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
+25,25.10.15,17:00,TV Oberbantenberg,NA,SG Ollheim-Straßfeld,23:25,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 26,25.10.15,18:00,Dünnwalder TV,NA,TSV Bonn rrh.,18:19,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 35,31.10.15,17:45,TV Roetgen,NA,TV Strombach,25:23,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
-34,31.10.15,18:00,HSV Frechen,NA,SC Fortuna Köln,34:22,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 36,31.10.15,18:00,SSV Nümbrecht,NA,TuS Königsdorf,25:28,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
+34,31.10.15,18:00,HSV Frechen,NA,SC Fortuna Köln,34:22,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 33,31.10.15,19:30,TSV Bonn rrh.,NA,Pulheimer SC,25:20,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 31,31.10.15,20:00,ASV SR Aachen,NA,TV Oberbantenberg,21:15,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 32,01.11.15,16:00,SG Ollheim-Straßfeld,NA,Dünnwalder TV,27:26,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
@@ -1711,8 +1717,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 51,05.12.15,17:30,Pulheimer SC,NA,TV Roetgen,22:24,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 54,05.12.15,19:45,SC Fortuna Köln,NA,TV Strombach,29:28,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 53,06.12.15,15:45,TSV Bonn rrh.,NA,SG Ollheim-Straßfeld,21:19,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
-49,06.12.15,17:00,TV Oberbantenberg,NA,TuS Königsdorf,20:19,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 52,06.12.15,17:00,HSV Frechen,NA,ASV SR Aachen,31:32,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
+49,06.12.15,17:00,TV Oberbantenberg,NA,TuS Königsdorf,20:19,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 58,12.12.15,17:45,TV Roetgen,NA,HSV Frechen,26:26,1:1,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 57,12.12.15,18:00,SSV Nümbrecht,NA,Pulheimer SC,31:38,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 55,12.12.15,20:00,TV Strombach,NA,TV Oberbantenberg,30:23,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
@@ -1720,8 +1726,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 59,13.12.15,18:15,ASV SR Aachen,NA,TSV Bonn rrh.,18:32,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 56,13.12.15,19:00,TuS Königsdorf,NA,Dünnwalder TV,21:26,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 63,09.01.16,17:30,Pulheimer SC,NA,TuS Königsdorf,24:31,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
-62,09.01.16,19:30,Dünnwalder TV,NA,TV Strombach,21:26,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 65,09.01.16,19:30,TSV Bonn rrh.,NA,TV Roetgen,31:15,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
+62,09.01.16,19:30,Dünnwalder TV,NA,TV Strombach,21:26,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 64,09.01.16,20:00,HSV Frechen,NA,SSV Nümbrecht,35:26,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 66,10.01.16,16:00,SG Ollheim-Straßfeld,NA,ASV SR Aachen,24:21,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 61,10.01.16,17:00,TV Oberbantenberg,NA,SC Fortuna Köln,30:24,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
@@ -1737,8 +1743,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 75,23.01.16,20:00,TV Strombach,NA,HSV Frechen,28:25,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 73,24.01.16,17:00,TV Oberbantenberg,NA,Pulheimer SC,15:18,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 76,24.01.16,19:45,TuS Königsdorf,NA,TSV Bonn rrh.,31:28,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
-80,30.01.16,17:30,Pulheimer SC,NA,Dünnwalder TV,25:28,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 82,30.01.16,17:30,TSV Bonn rrh.,NA,TV Strombach,25:21,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
+80,30.01.16,17:30,Pulheimer SC,NA,Dünnwalder TV,25:28,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 81,30.01.16,17:45,TV Roetgen,NA,SC Fortuna Köln,28:23,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 79,30.01.16,19:00,HSV Frechen,NA,TV Oberbantenberg,30:26,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 84,30.01.16,20:00,ASV SR Aachen,NA,SSV Nümbrecht,31:35,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
@@ -1783,14 +1789,14 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 122,02.04.16,19:45,Dünnwalder TV,NA,TuS Königsdorf,19:25,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 126,03.04.16,13:45,SC Fortuna Köln,NA,SG Ollheim-Straßfeld,30:29,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 125,03.04.16,15:30,TSV Bonn rrh.,NA,ASV SR Aachen,27:11,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
-121,03.04.16,17:00,TV Oberbantenberg,NA,TV Strombach,23:25,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 124,03.04.16,17:00,HSV Frechen,NA,TV Roetgen,27:27,1:1,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
-127,09.04.16,18:00,SC Fortuna Köln,NA,TV Oberbantenberg,29:21,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
+121,03.04.16,17:00,TV Oberbantenberg,NA,TV Strombach,23:25,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 128,09.04.16,18:00,TV Strombach,NA,Dünnwalder TV,31:22,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
-129,09.04.16,18:00,TuS Königsdorf,NA,Pulheimer SC,19:23,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
-130,09.04.16,18:00,SSV Nümbrecht,NA,HSV Frechen,27:22,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 131,09.04.16,18:00,TV Roetgen,NA,TSV Bonn rrh.,21:22,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
+127,09.04.16,18:00,SC Fortuna Köln,NA,TV Oberbantenberg,29:21,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 132,09.04.16,18:00,ASV SR Aachen,NA,SG Ollheim-Straßfeld,33:24,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
+130,09.04.16,18:00,SSV Nümbrecht,NA,HSV Frechen,27:22,2:0,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
+129,09.04.16,18:00,TuS Königsdorf,NA,Pulheimer SC,19:23,0:2,NA,NA,2015/2016,1. Damen,Oberliga,1,31,13
 5,13.09.14,19:30,TuS Königsdorf,NA,TSV Bonn rrh.,24:15,2:0,NA,NA,2014/2015,1. Damen,Oberliga,6,32,21
 2,14.09.14,16:00,SG Ollheim-Straßfeld,NA,HSV Frechen,22:33,0:2,NA,NA,2014/2015,1. Damen,Oberliga,6,32,21
 6,14.09.14,16:00,HSG Siebengeb.-Thom.,NA,CVJM Oberwiehl,28:30,0:2,NA,NA,2014/2015,1. Damen,Oberliga,6,32,21
@@ -2767,8 +2773,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 39,25.10.15,18:00,VfL Bardenberg,NA,SG Ollheim-Straßfeld,32:26,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 44,31.10.15,17:30,DJK Westwacht Weiden  2,NA,BTB Aachen  2,25:23,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 48,31.10.15,17:30,HSV Bockeroth,NA,Weidener TV  2,22:36,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-45,31.10.15,19:30,TV Palmersheim,NA,VfR Übach-Palenberg,32:24,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 46,31.10.15,19:30,VfL Bardenberg,NA,HSG Rheinbach-Wormersdorf  2,24:32,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+45,31.10.15,19:30,TV Palmersheim,NA,VfR Übach-Palenberg,32:24,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 43,01.11.15,15:45,ASV SR Aachen  2,NA,HSG Merkstein,27:29,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 49,01.11.15,16:00,TVE Bad Münstereifel,NA,Stolberger SV,26:27,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 47,01.11.15,18:00,SG Ollheim-Straßfeld,NA,TSV Bonn rrh.  2,37:31,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
@@ -2786,8 +2792,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 59,14.11.15,19:30,TV Palmersheim,NA,HSG Merkstein,24:35,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 60,14.11.15,19:30,VfL Bardenberg,NA,BTB Aachen  2,22:20,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 62,15.11.15,18:00,SG Ollheim-Straßfeld,NA,TVE Bad Münstereifel,27:25,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-64,21.11.15,17:30,TSV Bonn rrh.  2,NA,ASV SR Aachen  2,29:25,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 68,21.11.15,17:30,BTB Aachen  2,NA,HSG Rheinbach-Wormersdorf  2,22:33,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+64,21.11.15,17:30,TSV Bonn rrh.  2,NA,ASV SR Aachen  2,29:25,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 66,21.11.15,17:45,Weidener TV  2,NA,TV Palmersheim,26:25,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 65,21.11.15,19:45,Stolberger SV,NA,DJK Westwacht Weiden  2,43:28,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 67,21.11.15,20:00,HSG Merkstein,NA,VfL Bardenberg,21:28,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
@@ -2798,24 +2804,24 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 74,28.11.15,19:30,VfL Bardenberg,NA,Weidener TV  2,29:34,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 76,28.11.15,20:00,VfR Übach-Palenberg,NA,BTB Aachen  2,36:29,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 71,29.11.15,13:45,ASV SR Aachen  2,NA,TVE Bad Münstereifel,25:26,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-75,29.11.15,18:00,HSG Rheinbach-Wormersdorf  2,NA,HSG Merkstein,27:22,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 77,29.11.15,18:00,SG Ollheim-Straßfeld,NA,HSV Bockeroth,43:25,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-80,05.12.15,17:30,TSV Bonn rrh.  2,NA,TV Palmersheim,33:32,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+75,29.11.15,18:00,HSG Rheinbach-Wormersdorf  2,NA,HSG Merkstein,27:22,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 84,05.12.15,17:30,BTB Aachen  2,NA,SG Ollheim-Straßfeld,23:22,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+80,05.12.15,17:30,TSV Bonn rrh.  2,NA,TV Palmersheim,33:32,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 82,05.12.15,17:45,Weidener TV  2,NA,HSG Rheinbach-Wormersdorf  2,22:30,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 81,05.12.15,19:45,Stolberger SV,NA,VfL Bardenberg,27:26,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 83,05.12.15,20:00,HSG Merkstein,NA,VfR Übach-Palenberg,33:24,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 79,06.12.15,16:00,TVE Bad Münstereifel,NA,DJK Westwacht Weiden  2,25:27,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 89,12.12.15,17:00,HSG Rheinbach-Wormersdorf  2,NA,Stolberger SV,32:28,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 85,12.12.15,17:15,ASV SR Aachen  2,NA,SG Ollheim-Straßfeld,27:35,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-86,12.12.15,17:30,DJK Westwacht Weiden  2,NA,HSV Bockeroth,26:21,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 91,12.12.15,17:30,BTB Aachen  2,NA,HSG Merkstein,27:30,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-87,12.12.15,19:30,TV Palmersheim,NA,TVE Bad Münstereifel,33:27,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+86,12.12.15,17:30,DJK Westwacht Weiden  2,NA,HSV Bockeroth,26:21,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 88,12.12.15,19:30,VfL Bardenberg,NA,TSV Bonn rrh.  2,21:24,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+87,12.12.15,19:30,TV Palmersheim,NA,TVE Bad Münstereifel,33:27,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 90,12.12.15,20:00,VfR Übach-Palenberg,NA,Weidener TV  2,30:28,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 78,07.01.16,20:15,HSV Bockeroth,NA,ASV SR Aachen  2,27:23,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-92,09.01.16,17:30,DJK Westwacht Weiden  2,NA,ASV SR Aachen  2,32:19,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 98,09.01.16,17:30,BTB Aachen  2,NA,Weidener TV  2,34:26,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+92,09.01.16,17:30,DJK Westwacht Weiden  2,NA,ASV SR Aachen  2,32:19,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 94,09.01.16,19:30,TV Palmersheim,NA,HSV Bockeroth,32:17,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 93,09.01.16,20:00,HSG Merkstein,NA,SG Ollheim-Straßfeld,25:26,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 97,09.01.16,20:00,VfR Übach-Palenberg,NA,Stolberger SV,34:38,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
@@ -2829,12 +2835,12 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 102,17.01.16,16:00,TVE Bad Münstereifel,NA,HSG Rheinbach-Wormersdorf  2,25:33,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 100,17.01.16,18:00,SG Ollheim-Straßfeld,NA,DJK Westwacht Weiden  2,45:27,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 109,23.01.16,17:00,HSG Rheinbach-Wormersdorf  2,NA,HSV Bockeroth,50:21,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-108,23.01.16,17:45,Weidener TV  2,NA,SG Ollheim-Straßfeld,29:39,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 111,23.01.16,17:45,BTB Aachen  2,NA,TSV Bonn rrh.  2,25:18,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-106,23.01.16,19:30,VfL Bardenberg,NA,ASV SR Aachen  2,28:28,1:1,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+108,23.01.16,17:45,Weidener TV  2,NA,SG Ollheim-Straßfeld,29:39,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 107,23.01.16,19:30,TV Palmersheim,NA,DJK Westwacht Weiden  2,29:30,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-110,23.01.16,20:00,VfR Übach-Palenberg,NA,TVE Bad Münstereifel,32:25,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+106,23.01.16,19:30,VfL Bardenberg,NA,ASV SR Aachen  2,28:28,1:1,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 112,23.01.16,20:00,HSG Merkstein,NA,Stolberger SV,35:24,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+110,23.01.16,20:00,VfR Übach-Palenberg,NA,TVE Bad Münstereifel,32:25,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 114,30.01.16,17:30,DJK Westwacht Weiden  2,NA,VfL Bardenberg,30:34,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 113,30.01.16,18:00,ASV SR Aachen  2,NA,HSG Rheinbach-Wormersdorf  2,30:35,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 119,30.01.16,19:45,Stolberger SV,NA,Weidener TV  2,32:26,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
@@ -2846,8 +2852,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 124,13.02.16,17:30,BTB Aachen  2,NA,HSV Bockeroth,51:16,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 126,13.02.16,17:45,Weidener TV  2,NA,TSV Bonn rrh.  2,19:31,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 123,13.02.16,19:45,Stolberger SV,NA,SG Ollheim-Straßfeld,29:20,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-120,13.02.16,20:00,VfR Übach-Palenberg,NA,ASV SR Aachen  2,28:24,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 125,13.02.16,20:00,HSG Merkstein,NA,TVE Bad Münstereifel,33:20,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+120,13.02.16,20:00,VfR Übach-Palenberg,NA,ASV SR Aachen  2,28:24,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 122,14.02.16,18:00,VfL Bardenberg,NA,TV Palmersheim,38:27,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 128,20.02.16,17:30,DJK Westwacht Weiden  2,NA,VfR Übach-Palenberg,30:29,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 127,20.02.16,17:45,ASV SR Aachen  2,NA,BTB Aachen  2,16:25,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
@@ -2857,25 +2863,25 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 132,21.02.16,16:00,TVE Bad Münstereifel,NA,Weidener TV  2,24:30,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 130,21.02.16,18:00,SG Ollheim-Straßfeld,NA,VfL Bardenberg,34:32,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 137,27.02.16,17:00,HSG Rheinbach-Wormersdorf  2,NA,VfL Bardenberg,23:27,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-135,27.02.16,17:30,BTB Aachen  2,NA,DJK Westwacht Weiden  2,33:18,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 138,27.02.16,17:30,TSV Bonn rrh.  2,NA,SG Ollheim-Straßfeld,24:23,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+135,27.02.16,17:30,BTB Aachen  2,NA,DJK Westwacht Weiden  2,33:18,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 139,27.02.16,17:45,Weidener TV  2,NA,HSV Bockeroth,26:28,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 140,27.02.16,19:45,Stolberger SV,NA,TVE Bad Münstereifel,31:27,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-134,27.02.16,20:00,HSG Merkstein,NA,ASV SR Aachen  2,27:27,1:1,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 136,27.02.16,20:00,VfR Übach-Palenberg,NA,TV Palmersheim,42:37,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+134,27.02.16,20:00,HSG Merkstein,NA,ASV SR Aachen  2,27:27,1:1,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 142,05.03.16,17:30,DJK Westwacht Weiden  2,NA,HSG Merkstein,29:33,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 143,05.03.16,19:30,TV Palmersheim,NA,BTB Aachen  2,21:25,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 146,05.03.16,19:30,HSV Bockeroth,NA,Stolberger SV,20:43,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 141,06.03.16,13:30,ASV SR Aachen  2,NA,Weidener TV  2,24:22,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 147,06.03.16,16:00,TVE Bad Münstereifel,NA,TSV Bonn rrh.  2,30:27,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-144,06.03.16,18:00,VfL Bardenberg,NA,VfR Übach-Palenberg,35:28,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 145,06.03.16,18:00,SG Ollheim-Straßfeld,NA,HSG Rheinbach-Wormersdorf  2,27:34,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+144,06.03.16,18:00,VfL Bardenberg,NA,VfR Übach-Palenberg,35:28,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 151,12.03.16,17:30,BTB Aachen  2,NA,VfL Bardenberg,22:23,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 154,12.03.16,17:30,TSV Bonn rrh.  2,NA,HSV Bockeroth,33:28,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 149,12.03.16,17:45,Weidener TV  2,NA,DJK Westwacht Weiden  2,25:22,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 148,12.03.16,19:45,Stolberger SV,NA,ASV SR Aachen  2,44:25,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-150,12.03.16,20:00,HSG Merkstein,NA,TV Palmersheim,30:33,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 152,12.03.16,20:00,VfR Übach-Palenberg,NA,HSG Rheinbach-Wormersdorf  2,24:24,1:1,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+150,12.03.16,20:00,HSG Merkstein,NA,TV Palmersheim,30:33,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 153,13.03.16,16:00,TVE Bad Münstereifel,NA,SG Ollheim-Straßfeld,31:26,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 158,18.03.16,20:00,VfL Bardenberg,NA,HSG Merkstein,19:26,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 159,19.03.16,17:00,HSG Rheinbach-Wormersdorf  2,NA,BTB Aachen  2,26:24,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
@@ -2884,8 +2890,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 161,19.03.16,18:00,HSV Bockeroth,NA,TVE Bad Münstereifel,30:32,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 157,19.03.16,19:30,TV Palmersheim,NA,Weidener TV  2,21:19,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 160,20.03.16,18:00,SG Ollheim-Straßfeld,NA,VfR Übach-Palenberg,31:26,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-163,02.04.16,17:30,TSV Bonn rrh.  2,NA,DJK Westwacht Weiden  2,38:31,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 167,02.04.16,17:30,BTB Aachen  2,NA,VfR Übach-Palenberg,38:24,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+163,02.04.16,17:30,TSV Bonn rrh.  2,NA,DJK Westwacht Weiden  2,38:31,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 165,02.04.16,17:45,Weidener TV  2,NA,VfL Bardenberg,26:27,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 168,02.04.16,19:00,HSV Bockeroth,NA,SG Ollheim-Straßfeld,24:35,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 164,02.04.16,19:45,Stolberger SV,NA,TV Palmersheim,26:23,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
@@ -2898,13 +2904,13 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 171,09.04.16,19:30,TV Palmersheim,NA,TSV Bonn rrh.  2,24:29,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 172,09.04.16,19:30,VfL Bardenberg,NA,Stolberger SV,33:32,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 175,10.04.16,18:00,SG Ollheim-Straßfeld,NA,BTB Aachen  2,23:20,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-176,17.04.16,16:00,SG Ollheim-Straßfeld,NA,ASV SR Aachen  2,35:27,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-177,17.04.16,16:00,HSV Bockeroth,NA,DJK Westwacht Weiden  2,29:30,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-178,17.04.16,16:00,TVE Bad Münstereifel,NA,TV Palmersheim,31:28,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-179,17.04.16,16:00,TSV Bonn rrh.  2,NA,VfL Bardenberg,21:28,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 180,17.04.16,16:00,Stolberger SV,NA,HSG Rheinbach-Wormersdorf  2,21:32,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
-181,17.04.16,16:00,Weidener TV  2,NA,VfR Übach-Palenberg,30:32,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 182,17.04.16,16:00,HSG Merkstein,NA,BTB Aachen  2,31:32,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+179,17.04.16,16:00,TSV Bonn rrh.  2,NA,VfL Bardenberg,21:28,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+177,17.04.16,16:00,HSV Bockeroth,NA,DJK Westwacht Weiden  2,29:30,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+176,17.04.16,16:00,SG Ollheim-Straßfeld,NA,ASV SR Aachen  2,35:27,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+178,17.04.16,16:00,TVE Bad Münstereifel,NA,TV Palmersheim,31:28,2:0,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
+181,17.04.16,16:00,Weidener TV  2,NA,VfR Übach-Palenberg,30:32,0:2,NA,NA,2015/2016,2. Herren,Landesliga,7,31,21
 6,06.09.14,17:30,TSV Bonn rrh. 2,NA,HSG Euskirchen,31:28,2:0,NA,NA,2014/2015,2. Herren,Landesliga,9,22,30
 7,06.09.14,17:45,Weidener TV 2,NA,BTB Aachen 2,28:31,0:2,NA,NA,2014/2015,2. Herren,Landesliga,9,22,30
 3,06.09.14,19:00,TVE Bad Münstereifel,NA,HSG Merkstein,26:30,0:2,NA,NA,2014/2015,2. Herren,Landesliga,9,22,30
@@ -4121,8 +4127,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 95,23.01.16,17:30,HV Erftstadt 1,NA,HSG Euskirchen 2,35:30,2:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
 93,24.01.16,00:00,Lülsdorf-Ranzel 1,NA,HSG Sieg 1,0:0,0:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
 94,24.01.16,16:45,Godesberger TV 1,NA,TSV Feytal 1,19:20,0:2,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
-91,24.01.16,17:15,HSV Troisdorf 1,NA,SV Rot-Weiss Merl 1,32:20,2:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
 96,24.01.16,17:15,SG Ollheim-Straßf. 2,NA,HSG Euskirchen 3,34:30,2:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
+91,24.01.16,17:15,HSV Troisdorf 1,NA,SV Rot-Weiss Merl 1,32:20,2:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
 98,30.01.16,18:00,TuS Dollendorf 1,NA,HSV Troisdorf 1,31:34,0:2,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
 100,31.01.16,11:15,TSV Feytal 1,NA,Lülsdorf-Ranzel 1,17:19,0:2,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
 102,31.01.16,15:00,HSG Euskirchen 3,NA,Godesberger TV 1,28:26,2:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
@@ -4131,8 +4137,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 92,03.02.16,20:45,TSV Bonn rrh. 3,NA,TuS Dollendorf 1,21:19,2:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
 107,13.02.16,17:30,HSG Euskirchen 3,NA,TSV Feytal 1,33:20,2:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
 106,13.02.16,18:00,TSV Bonn rrh. 3,NA,Lülsdorf-Ranzel 1,30:23,2:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
-105,14.02.16,17:15,HSV Troisdorf 1,NA,HSG Sieg 1,32:25,2:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
 108,14.02.16,17:15,Godesberger TV 1,NA,HSG Euskirchen 2,33:29,2:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
+105,14.02.16,17:15,HSV Troisdorf 1,NA,HSG Sieg 1,32:25,2:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
 103,14.02.16,18:30,SG Ollheim-Straßf. 2,NA,SV Rot-Weiss Merl 1,26:15,2:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
 109,20.02.16,17:45,SV Rot-Weiss Merl 1,NA,Godesberger TV 1,30:32,0:2,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
 110,20.02.16,18:00,TuS Dollendorf 1,NA,SG Ollheim-Straßf. 2,30:29,2:0,NA,NA,2015/2016,3. Herren,Kreisliga,7,21,23
@@ -5005,8 +5011,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 132,09.04.17,16:30,HSV Bockeroth,NA,Godesberger TV,31:20,2:0,NA,NA,2016/2017,2. Damen,Verbandsliga,3,26,18
 6,12.09.15,17:30,Polizei SV Köln,NA,DJK Westwacht Weiden,25:18,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 2,12.09.15,17:45,Stolberger SV,NA,ASV SR Aachen 2,24:28,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-3,12.09.15,18:00,TV Strombach 2,NA,HSV Bocklemünd,14:12,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 4,12.09.15,18:00,CVJM Oberwiehl,NA,TV Euenheim,28:18,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+3,12.09.15,18:00,TV Strombach 2,NA,HSV Bocklemünd,14:12,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 5,13.09.15,17:00,HSG Siebengeb.-Th.,NA,TSV Bonn rrh. 2,23:24,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 1,13.09.15,17:15,MTV Köln 1850,NA,Weidener TV,20:21,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 11,19.09.15,15:30,DJK Westwacht Weiden,NA,HSG Siebengeb.-Th.,28:23,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
@@ -5021,8 +5027,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 13,27.09.15,17:15,MTV Köln 1850,NA,TV Euenheim,28:14,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 14,27.09.15,18:00,Weidener TV,NA,HSV Bocklemünd,22:20,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 17,30.09.15,20:30,CVJM Oberwiehl,NA,DJK Westwacht Weiden,24:24,1:1,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-19,03.10.15,15:30,TSV Bonn rrh. 2,NA,MTV Köln 1850,28:26,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 22,03.10.15,15:30,DJK Westwacht Weiden,NA,TV Strombach 2,26:21,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+19,03.10.15,15:30,TSV Bonn rrh. 2,NA,MTV Köln 1850,28:26,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 23,03.10.15,15:45,ASV SR Aachen 2,NA,CVJM Oberwiehl,33:33,1:1,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 20,03.10.15,17:30,TV Euenheim,NA,Weidener TV,21:25,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 21,03.10.15,17:45,HSV Bocklemünd,NA,Stolberger SV,35:24,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
@@ -5034,9 +5040,9 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 25,25.10.15,17:15,MTV Köln 1850,NA,DJK Westwacht Weiden,30:27,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 26,25.10.15,18:00,Weidener TV,NA,TSV Bonn rrh. 2,22:23,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 32,31.10.15,15:30,DJK Westwacht Weiden,NA,Weidener TV,19:23,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+35,31.10.15,17:30,Polizei SV Köln,NA,TV Strombach 2,17:17,1:1,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 33,31.10.15,17:30,TSV Bonn rrh. 2,NA,HSV Bocklemünd,32:25,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 34,31.10.15,17:30,TV Euenheim,NA,Stolberger SV,25:29,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-35,31.10.15,17:30,Polizei SV Köln,NA,TV Strombach 2,17:17,1:1,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 31,31.10.15,17:45,ASV SR Aachen 2,NA,MTV Köln 1850,25:28,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 36,01.11.15,18:00,HSG Siebengeb.-Th.,NA,CVJM Oberwiehl,22:19,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 39,07.11.15,15:00,HSV Bocklemünd,NA,DJK Westwacht Weiden,21:25,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
@@ -5046,8 +5052,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 37,08.11.15,17:15,MTV Köln 1850,NA,Polizei SV Köln,23:25,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 38,08.11.15,18:00,Weidener TV,NA,ASV SR Aachen 2,20:20,1:1,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 46,28.11.15,15:30,DJK Westwacht Weiden,NA,TV Euenheim,23:24,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-44,28.11.15,17:30,Polizei SV Köln,NA,Weidener TV,19:19,1:1,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 47,28.11.15,17:30,TSV Bonn rrh. 2,NA,Stolberger SV,29:28,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+44,28.11.15,17:30,Polizei SV Köln,NA,Weidener TV,19:19,1:1,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 45,28.11.15,17:45,ASV SR Aachen 2,NA,HSV Bocklemünd,24:24,1:1,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 48,28.11.15,18:00,CVJM Oberwiehl,NA,TV Strombach 2,27:19,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 43,29.11.15,16:00,HSG Siebengeb.-Th.,NA,MTV Köln 1850,28:26,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
@@ -5058,8 +5064,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 49,06.12.15,17:15,MTV Köln 1850,NA,CVJM Oberwiehl,28:25,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 50,06.12.15,18:00,Weidener TV,NA,HSG Siebengeb.-Th.,23:24,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 60,12.12.15,15:30,DJK Westwacht Weiden,NA,Stolberger SV,34:34,1:1,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-57,12.12.15,17:30,HSG Siebengeb.-Th.,NA,HSV Bocklemünd,31:26,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 58,12.12.15,17:30,Polizei SV Köln,NA,TV Euenheim,21:19,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+57,12.12.15,17:30,HSG Siebengeb.-Th.,NA,HSV Bocklemünd,31:26,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 55,12.12.15,18:00,TV Strombach 2,NA,MTV Köln 1850,19:16,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 56,12.12.15,18:00,CVJM Oberwiehl,NA,Weidener TV,27:25,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 59,13.12.15,16:00,ASV SR Aachen 2,NA,TSV Bonn rrh. 2,24:24,1:1,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
@@ -5082,8 +5088,8 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 77,24.01.16,16:00,HSG Siebengeb.-Th.,NA,DJK Westwacht Weiden,29:22,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 73,24.01.16,17:15,MTV Köln 1850,NA,HSV Bocklemünd,21:21,1:1,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 83,30.01.16,15:30,DJK Westwacht Weiden,NA,CVJM Oberwiehl,26:24,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-79,30.01.16,17:30,TV Euenheim,NA,MTV Köln 1850,19:23,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 81,30.01.16,17:30,Polizei SV Köln,NA,Stolberger SV,14:33,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+79,30.01.16,17:30,TV Euenheim,NA,MTV Köln 1850,19:23,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 84,30.01.16,17:45,ASV SR Aachen 2,NA,HSG Siebengeb.-Th.,27:29,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 80,30.01.16,18:45,HSV Bocklemünd,NA,Weidener TV,26:18,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 82,31.01.16,15:15,TSV Bonn rrh. 2,NA,TV Strombach 2,24:27,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
@@ -5115,13 +5121,13 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 113,12.03.16,17:45,Stolberger SV,NA,TSV Bonn rrh. 2,15:19,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 114,12.03.16,18:00,TV Strombach 2,NA,CVJM Oberwiehl,21:24,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 109,13.03.16,17:15,MTV Köln 1850,NA,HSG Siebengeb.-Th.,24:21,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-110,13.03.16,18:00,Weidener TV,NA,Polizei SV Köln,33:26,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 111,13.03.16,18:00,HSV Bocklemünd,NA,ASV SR Aachen 2,30:31,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-116,19.03.16,15:30,HSG Siebengeb.-Th.,NA,Weidener TV,17:27,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+110,13.03.16,18:00,Weidener TV,NA,Polizei SV Köln,33:26,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 119,19.03.16,15:30,DJK Westwacht Weiden,NA,TSV Bonn rrh. 2,31:26,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+116,19.03.16,15:30,HSG Siebengeb.-Th.,NA,Weidener TV,17:27,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 117,19.03.16,17:30,Polizei SV Köln,NA,HSV Bocklemünd,20:18,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-115,19.03.16,18:00,CVJM Oberwiehl,NA,MTV Köln 1850,26:23,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 120,19.03.16,18:00,TV Strombach 2,NA,Stolberger SV,21:19,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+115,19.03.16,18:00,CVJM Oberwiehl,NA,MTV Köln 1850,26:23,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 118,20.03.16,10:30,ASV SR Aachen 2,NA,TV Euenheim,23:25,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 123,02.04.16,17:00,HSV Bocklemünd,NA,HSG Siebengeb.-Th.,26:17,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 124,02.04.16,17:30,TV Euenheim,NA,Polizei SV Köln,22:18,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
@@ -5129,12 +5135,12 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 125,03.04.16,13:30,TSV Bonn rrh. 2,NA,ASV SR Aachen 2,20:26,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 121,03.04.16,15:15,MTV Köln 1850,NA,TV Strombach 2,20:21,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 122,03.04.16,17:00,Weidener TV,NA,CVJM Oberwiehl,25:22,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-127,10.04.16,16:30,Stolberger SV,NA,MTV Köln 1850,28:25,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-128,10.04.16,16:30,TV Strombach 2,NA,Weidener TV,12:19,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-129,10.04.16,16:30,CVJM Oberwiehl,NA,HSV Bocklemünd,18:25,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-130,10.04.16,16:30,HSG Siebengeb.-Th.,NA,TV Euenheim,26:25,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
-131,10.04.16,16:30,Polizei SV Köln,NA,TSV Bonn rrh. 2,17:30,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 132,10.04.16,16:30,ASV SR Aachen 2,NA,DJK Westwacht Weiden,30:24,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+131,10.04.16,16:30,Polizei SV Köln,NA,TSV Bonn rrh. 2,17:30,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+129,10.04.16,16:30,CVJM Oberwiehl,NA,HSV Bocklemünd,18:25,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+127,10.04.16,16:30,Stolberger SV,NA,MTV Köln 1850,28:25,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+130,10.04.16,16:30,HSG Siebengeb.-Th.,NA,TV Euenheim,26:25,2:0,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
+128,10.04.16,16:30,TV Strombach 2,NA,Weidener TV,12:19,0:2,NA,NA,2015/2016,2. Damen,Verbandsliga,2,29,15
 4,13.09.14,16:00,SSV Nümbrecht,NA,DJK Leverkusen,26:19,2:0,NA,NA,2014/2015,2. Damen,Verbandsliga,9,17,27
 5,13.09.14,17:30,Polizei SV Köln,NA,TSV Bonn rrh. 2,22:13,2:0,NA,NA,2014/2015,2. Damen,Verbandsliga,9,17,27
 2,13.09.14,17:45,Stolberger SV,NA,HSV Bocklemünd,33:26,2:0,NA,NA,2014/2015,2. Damen,Verbandsliga,9,17,27
@@ -5959,116 +5965,116 @@ Nr,Datum,Zeit,Heim,Var.5,Gast,Tore,Punkte,Var.9,Var.10,season,team,league,place,
 127,01.04.17,18:00,Lülsdorf-Ranzel 1,NA,TSV Bonn rrh. 4,26:29,0:2,NA,NA,2016/2017,4. Herren,2. Kreisklasse,6,22,22
 129,01.04.17,19:00,SG Ollheim-Straßf. 3,NA,Kaller SC 1,28:30,0:2,NA,NA,2016/2017,4. Herren,2. Kreisklasse,6,22,22
 130,02.04.17,15:00,TV Palmersheim 2,NA,TSV Feytal 2,17:17,1:1,NA,NA,2016/2017,4. Herren,2. Kreisklasse,6,22,22
-4,05.09.15,17:15,HSG Npl / St. Aug. 3,NA,TSV Bonn rrh. 4,38:29,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-5,06.09.15,13:00,HSG Npl / St. Aug. 2,NA,TVE Bad Honnef 1,31:18,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-3,06.09.15,16:00,TuS Chl. Zülpich 1,NA,HSG Geislar-Oberk. 2,32:23,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-1,06.09.15,17:00,TuS Kreuzweingarten 1,NA,HSG Siebengeb./Th. 3,48:13,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-6,06.09.15,19:00,Poppelsdorfer HV 1,NA,Kaller SC 1,25:20,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-10,12.09.15,16:00,TVE Bad Honnef 1,NA,HSG Npl / St. Aug. 3,34:16,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-9,12.09.15,17:15,TSV Bonn rrh. 4,NA,TuS Chl. Zülpich 1,21:34,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-8,12.09.15,18:30,HSG Siebengeb./Th. 3,NA,TV Hangelar,22:33,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-7,12.09.15,19:00,TuS Kreuzweingarten 1,NA,HSG Geislar-Oberk. 2,39:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-11,12.09.15,19:30,Kaller SC 1,NA,HSG Npl / St. Aug. 2,18:21,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-15,20.09.15,11:30,TV Hangelar,NA,Poppelsdorfer HV 1,36:26,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-17,20.09.15,15:00,HSG Npl / St. Aug. 3,NA,Kaller SC 1,22:38,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-13,20.09.15,17:00,TuS Kreuzweingarten 1,NA,TSV Bonn rrh. 4,29:14,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-14,20.09.15,17:30,HSG Siebengeb./Th. 3,NA,HSG Geislar-Oberk. 2,31:29,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-16,20.09.15,18:00,TuS Chl. Zülpich 1,NA,TVE Bad Honnef 1,32:34,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-20,26.09.15,15:30,TSV Bonn rrh. 4,NA,HSG Siebengeb./Th. 3,25:27,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-22,26.09.15,19:15,Kaller SC 1,NA,TuS Chl. Zülpich 1,17:27,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-21,26.09.15,19:30,HSG Geislar-Oberk. 2,NA,TV Hangelar,29:20,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-19,27.09.15,18:15,TVE Bad Honnef 1,NA,TuS Kreuzweingarten 1,22:28,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-26,03.10.15,15:30,HSG Siebengeb./Th. 3,NA,TVE Bad Honnef 1,42:35,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-27,03.10.15,15:30,HSG Geislar-Oberk. 2,NA,TSV Bonn rrh. 4,28:25,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-25,03.10.15,19:00,TuS Kreuzweingarten 1,NA,Kaller SC 1,35:21,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-28,04.10.15,11:15,TV Hangelar,NA,HSG Npl / St. Aug. 2,25:34,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-30,04.10.15,13:00,HSG Npl / St. Aug. 3,NA,Poppelsdorfer HV 1,21:22,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-36,22.10.15,19:45,HSG Npl / St. Aug. 2,NA,HSG Npl / St. Aug. 3,29:28,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-34,24.10.15,17:30,TSV Bonn rrh. 4,NA,TV Hangelar,26:30,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-35,24.10.15,19:45,Poppelsdorfer HV 1,NA,TuS Chl. Zülpich 1,37:34,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-32,25.10.15,00:00,Kaller SC 1,NA,HSG Siebengeb./Th. 3,0:0,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-33,25.10.15,17:00,TVE Bad Honnef 1,NA,HSG Geislar-Oberk. 2,26:31,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-24,27.10.15,20:15,Poppelsdorfer HV 1,NA,HSG Npl / St. Aug. 2,22:24,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-39,31.10.15,15:30,HSG Geislar-Oberk. 2,NA,Kaller SC 1,24:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-41,31.10.15,17:00,TV Hangelar,NA,HSG Npl / St. Aug. 3,36:23,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-37,31.10.15,19:00,TuS Kreuzweingarten 1,NA,Poppelsdorfer HV 1,32:29,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-40,01.11.15,18:00,TSV Bonn rrh. 4,NA,TVE Bad Honnef 1,24:29,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-42,01.11.15,18:00,TuS Chl. Zülpich 1,NA,HSG Npl / St. Aug. 2,29:31,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-46,08.11.15,12:30,Kaller SC 1,NA,TSV Bonn rrh. 4,26:28,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-43,08.11.15,13:15,HSG Npl / St. Aug. 2,NA,TuS Kreuzweingarten 1,31:38,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-48,08.11.15,15:00,HSG Npl / St. Aug. 3,NA,TuS Chl. Zülpich 1,29:27,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-47,08.11.15,18:15,TVE Bad Honnef 1,NA,TV Hangelar,18:18,1:1,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-44,08.11.15,19:00,Poppelsdorfer HV 1,NA,HSG Siebengeb./Th. 3,37:33,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-50,14.11.15,15:15,HSG Siebengeb./Th. 3,NA,HSG Npl / St. Aug. 2,35:26,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-51,14.11.15,17:30,HSG Geislar-Oberk. 2,NA,Poppelsdorfer HV 1,25:30,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-49,14.11.15,18:00,TuS Kreuzweingarten 1,NA,HSG Npl / St. Aug. 3,32:15,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-54,15.11.15,13:00,TV Hangelar,NA,TuS Chl. Zülpich 1,29:23,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-53,15.11.15,18:15,TVE Bad Honnef 1,NA,Kaller SC 1,30:18,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-60,28.11.15,18:00,Kaller SC 1,NA,TV Hangelar,16:31,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-58,28.11.15,19:45,Poppelsdorfer HV 1,NA,TSV Bonn rrh. 4,33:27,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-56,29.11.15,15:00,HSG Npl / St. Aug. 3,NA,HSG Siebengeb./Th. 3,35:38,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-55,29.11.15,18:00,TuS Chl. Zülpich 1,NA,TuS Kreuzweingarten 1,31:48,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-62,05.12.15,16:00,HSG Siebengeb./Th. 3,NA,TuS Chl. Zülpich 1,31:34,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-61,05.12.15,17:00,TuS Kreuzweingarten 1,NA,TV Hangelar,40:25,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-64,06.12.15,10:00,TSV Bonn rrh. 4,NA,HSG Npl / St. Aug. 2,20:30,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-65,06.12.15,16:30,TVE Bad Honnef 1,NA,Poppelsdorfer HV 1,21:22,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-63,06.12.15,17:30,HSG Geislar-Oberk. 2,NA,HSG Npl / St. Aug. 3,17:18,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-70,12.12.15,17:00,TSV Bonn rrh. 4,NA,HSG Npl / St. Aug. 3,33:30,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-72,12.12.15,18:00,Kaller SC 1,NA,Poppelsdorfer HV 1,31:33,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-67,12.12.15,19:15,HSG Siebengeb./Th. 3,NA,TuS Kreuzweingarten 1,29:32,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-69,13.12.15,17:15,HSG Geislar-Oberk. 2,NA,TuS Chl. Zülpich 1,26:27,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-71,13.12.15,18:15,TVE Bad Honnef 1,NA,HSG Npl / St. Aug. 2,22:23,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-73,19.12.15,17:30,HSG Geislar-Oberk. 2,NA,TuS Kreuzweingarten 1,28:35,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-74,20.12.15,11:30,TV Hangelar,NA,HSG Siebengeb./Th. 3,29:28,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-77,20.12.15,13:15,HSG Npl / St. Aug. 2,NA,Kaller SC 1,36:25,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-76,20.12.15,15:00,HSG Npl / St. Aug. 3,NA,TVE Bad Honnef 1,25:35,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-75,20.12.15,18:00,TuS Chl. Zülpich 1,NA,TSV Bonn rrh. 4,36:28,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-80,09.01.16,15:30,HSG Geislar-Oberk. 2,NA,HSG Siebengeb./Th. 3,26:33,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-83,09.01.16,18:00,Kaller SC 1,NA,HSG Npl / St. Aug. 3,22:27,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-79,10.01.16,15:15,TSV Bonn rrh. 4,NA,TuS Kreuzweingarten 1,10:38,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-57,10.01.16,17:00,HSG Npl / St. Aug. 2,NA,HSG Geislar-Oberk. 2,30:24,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-81,10.01.16,19:00,Poppelsdorfer HV 1,NA,TV Hangelar,26:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-87,17.01.16,11:30,TV Hangelar,NA,HSG Geislar-Oberk. 2,23:23,1:1,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-90,17.01.16,13:15,HSG Npl / St. Aug. 2,NA,Poppelsdorfer HV 1,27:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-86,17.01.16,16:45,HSG Siebengeb./Th. 3,NA,TSV Bonn rrh. 4,34:24,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-88,17.01.16,18:00,TuS Chl. Zülpich 1,NA,Kaller SC 1,37:30,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-93,23.01.16,17:00,TSV Bonn rrh. 4,NA,HSG Geislar-Oberk. 2,28:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-91,23.01.16,19:00,Kaller SC 1,NA,TuS Kreuzweingarten 1,25:43,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-96,23.01.16,19:30,Poppelsdorfer HV 1,NA,HSG Npl / St. Aug. 3,35:27,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-94,24.01.16,13:15,HSG Npl / St. Aug. 2,NA,TV Hangelar,29:26,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-92,24.01.16,16:30,TVE Bad Honnef 1,NA,HSG Siebengeb./Th. 3,35:26,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-102,26.01.16,19:45,HSG Npl / St. Aug. 3,NA,HSG Npl / St. Aug. 2,23:29,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-98,30.01.16,00:00,HSG Siebengeb./Th. 3,NA,Kaller SC 1,0:0,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-100,31.01.16,11:30,TV Hangelar,NA,TSV Bonn rrh. 4,22:20,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-99,31.01.16,19:00,HSG Geislar-Oberk. 2,NA,TVE Bad Honnef 1,22:33,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-107,13.02.16,17:15,HSG Npl / St. Aug. 3,NA,TV Hangelar,28:29,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-105,13.02.16,19:00,Kaller SC 1,NA,HSG Geislar-Oberk. 2,22:23,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-108,14.02.16,13:15,HSG Npl / St. Aug. 2,NA,TuS Chl. Zülpich 1,36:26,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-106,14.02.16,18:00,TVE Bad Honnef 1,NA,TSV Bonn rrh. 4,28:20,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-103,14.02.16,20:00,Poppelsdorfer HV 1,NA,TuS Kreuzweingarten 1,26:27,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-101,17.02.16,20:00,TuS Chl. Zülpich 1,NA,Poppelsdorfer HV 1,34:30,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-113,21.02.16,11:30,TV Hangelar,NA,TVE Bad Honnef 1,25:20,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-110,21.02.16,14:00,HSG Siebengeb./Th. 3,NA,Poppelsdorfer HV 1,31:37,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-109,21.02.16,17:00,TuS Kreuzweingarten 1,NA,HSG Npl / St. Aug. 2,27:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-112,21.02.16,17:15,TSV Bonn rrh. 4,NA,Kaller SC 1,24:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-114,21.02.16,18:00,TuS Chl. Zülpich 1,NA,HSG Npl / St. Aug. 3,41:31,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-119,27.02.16,18:30,Kaller SC 1,NA,TVE Bad Honnef 1,23:35,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-120,28.02.16,00:00,TuS Chl. Zülpich 1,NA,TV Hangelar,0:0,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-116,28.02.16,13:15,HSG Npl / St. Aug. 2,NA,HSG Siebengeb./Th. 3,33:36,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-115,28.02.16,15:00,HSG Npl / St. Aug. 3,NA,TuS Kreuzweingarten 1,15:36,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-117,28.02.16,17:15,Poppelsdorfer HV 1,NA,HSG Geislar-Oberk. 2,33:24,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-123,05.03.16,13:45,HSG Geislar-Oberk. 2,NA,HSG Npl / St. Aug. 2,33:31,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-121,05.03.16,19:00,TuS Kreuzweingarten 1,NA,TuS Chl. Zülpich 1,38:23,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-126,06.03.16,11:30,TV Hangelar,NA,Kaller SC 1,0:0,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-122,06.03.16,15:45,HSG Siebengeb./Th. 3,NA,HSG Npl / St. Aug. 3,30:26,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-124,06.03.16,19:15,TSV Bonn rrh. 4,NA,Poppelsdorfer HV 1,22:34,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-129,12.03.16,17:15,HSG Npl / St. Aug. 3,NA,HSG Geislar-Oberk. 2,25:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-131,12.03.16,18:00,Poppelsdorfer HV 1,NA,TVE Bad Honnef 1,35:24,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-127,13.03.16,11:30,TV Hangelar,NA,TuS Kreuzweingarten 1,20:31,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-130,13.03.16,13:15,HSG Npl / St. Aug. 2,NA,TSV Bonn rrh. 4,32:25,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-128,13.03.16,18:00,TuS Chl. Zülpich 1,NA,HSG Siebengeb./Th. 3,39:32,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-85,19.03.16,19:00,TuS Kreuzweingarten 1,NA,TVE Bad Honnef 1,30:15,2:0,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
-82,20.03.16,16:30,TVE Bad Honnef 1,NA,TuS Chl. Zülpich 1,27:30,0:2,NA,NA,2015/2016,4. Herren,1. Kreislklass,10,8,32
+4,05.09.15,17:15,HSG Npl / St. Aug. 3,NA,TSV Bonn rrh. 4,38:29,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+5,06.09.15,13:00,HSG Npl / St. Aug. 2,NA,TVE Bad Honnef 1,31:18,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+3,06.09.15,16:00,TuS Chl. Zülpich 1,NA,HSG Geislar-Oberk. 2,32:23,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+1,06.09.15,17:00,TuS Kreuzweingarten 1,NA,HSG Siebengeb./Th. 3,48:13,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+6,06.09.15,19:00,Poppelsdorfer HV 1,NA,Kaller SC 1,25:20,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+10,12.09.15,16:00,TVE Bad Honnef 1,NA,HSG Npl / St. Aug. 3,34:16,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+9,12.09.15,17:15,TSV Bonn rrh. 4,NA,TuS Chl. Zülpich 1,21:34,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+8,12.09.15,18:30,HSG Siebengeb./Th. 3,NA,TV Hangelar,22:33,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+7,12.09.15,19:00,TuS Kreuzweingarten 1,NA,HSG Geislar-Oberk. 2,39:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+11,12.09.15,19:30,Kaller SC 1,NA,HSG Npl / St. Aug. 2,18:21,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+15,20.09.15,11:30,TV Hangelar,NA,Poppelsdorfer HV 1,36:26,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+17,20.09.15,15:00,HSG Npl / St. Aug. 3,NA,Kaller SC 1,22:38,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+13,20.09.15,17:00,TuS Kreuzweingarten 1,NA,TSV Bonn rrh. 4,29:14,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+14,20.09.15,17:30,HSG Siebengeb./Th. 3,NA,HSG Geislar-Oberk. 2,31:29,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+16,20.09.15,18:00,TuS Chl. Zülpich 1,NA,TVE Bad Honnef 1,32:34,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+20,26.09.15,15:30,TSV Bonn rrh. 4,NA,HSG Siebengeb./Th. 3,25:27,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+22,26.09.15,19:15,Kaller SC 1,NA,TuS Chl. Zülpich 1,17:27,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+21,26.09.15,19:30,HSG Geislar-Oberk. 2,NA,TV Hangelar,29:20,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+19,27.09.15,18:15,TVE Bad Honnef 1,NA,TuS Kreuzweingarten 1,22:28,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+27,03.10.15,15:30,HSG Geislar-Oberk. 2,NA,TSV Bonn rrh. 4,28:25,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+26,03.10.15,15:30,HSG Siebengeb./Th. 3,NA,TVE Bad Honnef 1,42:35,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+25,03.10.15,19:00,TuS Kreuzweingarten 1,NA,Kaller SC 1,35:21,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+28,04.10.15,11:15,TV Hangelar,NA,HSG Npl / St. Aug. 2,25:34,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+30,04.10.15,13:00,HSG Npl / St. Aug. 3,NA,Poppelsdorfer HV 1,21:22,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+36,22.10.15,19:45,HSG Npl / St. Aug. 2,NA,HSG Npl / St. Aug. 3,29:28,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+34,24.10.15,17:30,TSV Bonn rrh. 4,NA,TV Hangelar,26:30,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+35,24.10.15,19:45,Poppelsdorfer HV 1,NA,TuS Chl. Zülpich 1,37:34,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+32,25.10.15,00:00,Kaller SC 1,NA,HSG Siebengeb./Th. 3,0:0,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+33,25.10.15,17:00,TVE Bad Honnef 1,NA,HSG Geislar-Oberk. 2,26:31,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+24,27.10.15,20:15,Poppelsdorfer HV 1,NA,HSG Npl / St. Aug. 2,22:24,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+39,31.10.15,15:30,HSG Geislar-Oberk. 2,NA,Kaller SC 1,24:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+41,31.10.15,17:00,TV Hangelar,NA,HSG Npl / St. Aug. 3,36:23,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+37,31.10.15,19:00,TuS Kreuzweingarten 1,NA,Poppelsdorfer HV 1,32:29,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+42,01.11.15,18:00,TuS Chl. Zülpich 1,NA,HSG Npl / St. Aug. 2,29:31,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+40,01.11.15,18:00,TSV Bonn rrh. 4,NA,TVE Bad Honnef 1,24:29,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+46,08.11.15,12:30,Kaller SC 1,NA,TSV Bonn rrh. 4,26:28,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+43,08.11.15,13:15,HSG Npl / St. Aug. 2,NA,TuS Kreuzweingarten 1,31:38,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+48,08.11.15,15:00,HSG Npl / St. Aug. 3,NA,TuS Chl. Zülpich 1,29:27,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+47,08.11.15,18:15,TVE Bad Honnef 1,NA,TV Hangelar,18:18,1:1,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+44,08.11.15,19:00,Poppelsdorfer HV 1,NA,HSG Siebengeb./Th. 3,37:33,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+50,14.11.15,15:15,HSG Siebengeb./Th. 3,NA,HSG Npl / St. Aug. 2,35:26,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+51,14.11.15,17:30,HSG Geislar-Oberk. 2,NA,Poppelsdorfer HV 1,25:30,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+49,14.11.15,18:00,TuS Kreuzweingarten 1,NA,HSG Npl / St. Aug. 3,32:15,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+54,15.11.15,13:00,TV Hangelar,NA,TuS Chl. Zülpich 1,29:23,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+53,15.11.15,18:15,TVE Bad Honnef 1,NA,Kaller SC 1,30:18,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+60,28.11.15,18:00,Kaller SC 1,NA,TV Hangelar,16:31,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+58,28.11.15,19:45,Poppelsdorfer HV 1,NA,TSV Bonn rrh. 4,33:27,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+56,29.11.15,15:00,HSG Npl / St. Aug. 3,NA,HSG Siebengeb./Th. 3,35:38,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+55,29.11.15,18:00,TuS Chl. Zülpich 1,NA,TuS Kreuzweingarten 1,31:48,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+62,05.12.15,16:00,HSG Siebengeb./Th. 3,NA,TuS Chl. Zülpich 1,31:34,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+61,05.12.15,17:00,TuS Kreuzweingarten 1,NA,TV Hangelar,40:25,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+64,06.12.15,10:00,TSV Bonn rrh. 4,NA,HSG Npl / St. Aug. 2,20:30,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+65,06.12.15,16:30,TVE Bad Honnef 1,NA,Poppelsdorfer HV 1,21:22,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+63,06.12.15,17:30,HSG Geislar-Oberk. 2,NA,HSG Npl / St. Aug. 3,17:18,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+70,12.12.15,17:00,TSV Bonn rrh. 4,NA,HSG Npl / St. Aug. 3,33:30,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+72,12.12.15,18:00,Kaller SC 1,NA,Poppelsdorfer HV 1,31:33,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+67,12.12.15,19:15,HSG Siebengeb./Th. 3,NA,TuS Kreuzweingarten 1,29:32,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+69,13.12.15,17:15,HSG Geislar-Oberk. 2,NA,TuS Chl. Zülpich 1,26:27,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+71,13.12.15,18:15,TVE Bad Honnef 1,NA,HSG Npl / St. Aug. 2,22:23,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+73,19.12.15,17:30,HSG Geislar-Oberk. 2,NA,TuS Kreuzweingarten 1,28:35,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+74,20.12.15,11:30,TV Hangelar,NA,HSG Siebengeb./Th. 3,29:28,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+77,20.12.15,13:15,HSG Npl / St. Aug. 2,NA,Kaller SC 1,36:25,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+76,20.12.15,15:00,HSG Npl / St. Aug. 3,NA,TVE Bad Honnef 1,25:35,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+75,20.12.15,18:00,TuS Chl. Zülpich 1,NA,TSV Bonn rrh. 4,36:28,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+80,09.01.16,15:30,HSG Geislar-Oberk. 2,NA,HSG Siebengeb./Th. 3,26:33,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+83,09.01.16,18:00,Kaller SC 1,NA,HSG Npl / St. Aug. 3,22:27,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+79,10.01.16,15:15,TSV Bonn rrh. 4,NA,TuS Kreuzweingarten 1,10:38,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+57,10.01.16,17:00,HSG Npl / St. Aug. 2,NA,HSG Geislar-Oberk. 2,30:24,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+81,10.01.16,19:00,Poppelsdorfer HV 1,NA,TV Hangelar,26:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+87,17.01.16,11:30,TV Hangelar,NA,HSG Geislar-Oberk. 2,23:23,1:1,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+90,17.01.16,13:15,HSG Npl / St. Aug. 2,NA,Poppelsdorfer HV 1,27:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+86,17.01.16,16:45,HSG Siebengeb./Th. 3,NA,TSV Bonn rrh. 4,34:24,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+88,17.01.16,18:00,TuS Chl. Zülpich 1,NA,Kaller SC 1,37:30,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+93,23.01.16,17:00,TSV Bonn rrh. 4,NA,HSG Geislar-Oberk. 2,28:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+91,23.01.16,19:00,Kaller SC 1,NA,TuS Kreuzweingarten 1,25:43,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+96,23.01.16,19:30,Poppelsdorfer HV 1,NA,HSG Npl / St. Aug. 3,35:27,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+94,24.01.16,13:15,HSG Npl / St. Aug. 2,NA,TV Hangelar,29:26,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+92,24.01.16,16:30,TVE Bad Honnef 1,NA,HSG Siebengeb./Th. 3,35:26,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+102,26.01.16,19:45,HSG Npl / St. Aug. 3,NA,HSG Npl / St. Aug. 2,23:29,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+98,30.01.16,00:00,HSG Siebengeb./Th. 3,NA,Kaller SC 1,0:0,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+100,31.01.16,11:30,TV Hangelar,NA,TSV Bonn rrh. 4,22:20,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+99,31.01.16,19:00,HSG Geislar-Oberk. 2,NA,TVE Bad Honnef 1,22:33,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+107,13.02.16,17:15,HSG Npl / St. Aug. 3,NA,TV Hangelar,28:29,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+105,13.02.16,19:00,Kaller SC 1,NA,HSG Geislar-Oberk. 2,22:23,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+108,14.02.16,13:15,HSG Npl / St. Aug. 2,NA,TuS Chl. Zülpich 1,36:26,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+106,14.02.16,18:00,TVE Bad Honnef 1,NA,TSV Bonn rrh. 4,28:20,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+103,14.02.16,20:00,Poppelsdorfer HV 1,NA,TuS Kreuzweingarten 1,26:27,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+101,17.02.16,20:00,TuS Chl. Zülpich 1,NA,Poppelsdorfer HV 1,34:30,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+113,21.02.16,11:30,TV Hangelar,NA,TVE Bad Honnef 1,25:20,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+110,21.02.16,14:00,HSG Siebengeb./Th. 3,NA,Poppelsdorfer HV 1,31:37,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+109,21.02.16,17:00,TuS Kreuzweingarten 1,NA,HSG Npl / St. Aug. 2,27:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+112,21.02.16,17:15,TSV Bonn rrh. 4,NA,Kaller SC 1,24:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+114,21.02.16,18:00,TuS Chl. Zülpich 1,NA,HSG Npl / St. Aug. 3,41:31,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+119,27.02.16,18:30,Kaller SC 1,NA,TVE Bad Honnef 1,23:35,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+120,28.02.16,00:00,TuS Chl. Zülpich 1,NA,TV Hangelar,0:0,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+116,28.02.16,13:15,HSG Npl / St. Aug. 2,NA,HSG Siebengeb./Th. 3,33:36,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+115,28.02.16,15:00,HSG Npl / St. Aug. 3,NA,TuS Kreuzweingarten 1,15:36,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+117,28.02.16,17:15,Poppelsdorfer HV 1,NA,HSG Geislar-Oberk. 2,33:24,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+123,05.03.16,13:45,HSG Geislar-Oberk. 2,NA,HSG Npl / St. Aug. 2,33:31,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+121,05.03.16,19:00,TuS Kreuzweingarten 1,NA,TuS Chl. Zülpich 1,38:23,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+126,06.03.16,11:30,TV Hangelar,NA,Kaller SC 1,0:0,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+122,06.03.16,15:45,HSG Siebengeb./Th. 3,NA,HSG Npl / St. Aug. 3,30:26,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+124,06.03.16,19:15,TSV Bonn rrh. 4,NA,Poppelsdorfer HV 1,22:34,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+129,12.03.16,17:15,HSG Npl / St. Aug. 3,NA,HSG Geislar-Oberk. 2,25:22,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+131,12.03.16,18:00,Poppelsdorfer HV 1,NA,TVE Bad Honnef 1,35:24,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+127,13.03.16,11:30,TV Hangelar,NA,TuS Kreuzweingarten 1,20:31,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+130,13.03.16,13:15,HSG Npl / St. Aug. 2,NA,TSV Bonn rrh. 4,32:25,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+128,13.03.16,18:00,TuS Chl. Zülpich 1,NA,HSG Siebengeb./Th. 3,39:32,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+85,19.03.16,19:00,TuS Kreuzweingarten 1,NA,TVE Bad Honnef 1,30:15,2:0,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
+82,20.03.16,16:30,TVE Bad Honnef 1,NA,TuS Chl. Zülpich 1,27:30,0:2,NA,NA,2015/2016,4. Herren,1. Kreisklasse,10,8,32
 2,06.09.14,16:00,TVE Bad Honnef 1,NA,Godesberger TV 2,35:24,2:0,NA,NA,2014/2015,4. Herren,2. Kreisklasse,3,14,10
 3,06.09.14,19:15,HSG Rhb-W'dorf 3,NA,TSV Feytal 2,16:18,0:2,NA,NA,2014/2015,4. Herren,2. Kreisklasse,3,14,10
 9,13.09.14,17:00,TSV Bonn rrh. 4,NA,SG Ollheim-Straßf. 3,35:33,2:0,NA,NA,2014/2015,4. Herren,2. Kreisklasse,3,14,10
