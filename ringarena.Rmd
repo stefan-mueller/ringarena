@@ -143,10 +143,12 @@ ggplot(sis_home_advantage, aes(x = tsv_dummy, y  = Mean)) +
   ggbeeswarm::geom_quasirandom(alpha = 0.6) +
   scale_y_continuous(limits = c(0, 1)) + 
   geom_hline(yintercept = 0.5) +
-  labs(x = NULL, y = "Heimvorteil")
+  labs(x = NULL, y = "Heimvorteil", 
+       title = "Messung des Heimvorteils für Gegner und TSV-Teams",
+       subtitle = "Jeder Punkt zeigt das Heimvorteilsranking für ein Team in einer Saison.\nWerte über 0.5 bedeuten, dass mehr Punkte zuhause als auswärts geholt wurden.")
 ```
 
-Als nächstes schauen wir uns das Ganze pro TSV-Team an. Die kurzen schwarzen Balken auf der X-Achse markieren die Observationen (Werte pro Saison), die Kurve ist eine simple Häufigkeitsverteilung, der lange vertikale Balken markiert den Median. Bei den Herren sind vor allem die Zweit-, Dritt- und Viertvertretung merklich stärker in der Ringarena als in fremden Hallen. Bei der "Ersten" ist der Unterschied deutlich geringer. Die dritte Damenmannschaft wurde übrigens ausgeschlossen, weil sie nicht seit 2010 besteht.
+Als nächstes schauen wir uns das Ganze pro TSV-Team an. Die kurzen schwarzen Balken auf der x-Achse markieren die Observationen (Werte pro Saison), die Kurve ist eine simple Häufigkeitsverteilung, der lange vertikale Balken markiert den Median. Bei den Herren sind vor allem die Zweit-, Dritt- und Viertvertretung merklich stärker in der Ringarena als in fremden Hallen. Bei der "Ersten" ist der Unterschied deutlich geringer. Die dritte Damenmannschaft wurde übrigens ausgeschlossen, weil sie nicht seit 2010 besteht.
 
 ```{r, echo=FALSE}
 sis_home_advantage <- sis_home_advantage %>% 
@@ -173,7 +175,9 @@ gg_home_density <- function(data = sis_home_advantage,
                       point_shape = '|', point_size = 3, alpha = 0.7) +
     facet_wrap(~team) +
     scale_x_continuous(limits = c(0, 1)) +
-    labs(x = "Heimvorteil", y = NULL)
+    labs(x = "Heimvorteil", y = NULL,
+         title = "Die Verteilung des Heimvorteilsrankings für TSV-Teams und die jeweiligen Gegner", 
+         subtitle = "Die kleinen vertikalen Striche zeigen die Verteilung der Wert.\nDer lange horizontale Strich markiert die Medianwert pro TSV-Team/Gegner.")
 }
 ```
 
@@ -201,7 +205,10 @@ ggplot(data = sis_long_tsv, aes(x = year, y = goals_team_match, colour = match_t
   facet_wrap(~team, ncol = 2, scales = "free_x") +
   geom_text(data = sis_long_tsv_text, aes(x = year, y = 34, label = league_place), size = 3, inherit.aes = FALSE) +
   theme(legend.position = "bottom") +
-  labs(x = "Saison", y = "Durchschnitt an Toren (und Konfidenzintervalle)")
+  labs(x = "Saison", 
+       y = "Anzahl Tore",
+       title = "Durchschnitt an Toren pro Team und Saison", 
+       subtitle = "Graue Flächen zeigen Konfidenzintervalle; Saisonplatzierung und Ligaabkürzung im oberen Teil der Grafik.")
 ```
 
 
@@ -224,7 +231,9 @@ gg_heimvorteil <- function(data = sis_home_advantage_tsv,
   geom_vline(xintercept = 0.5, linetype = "dotted") +
   scale_fill_brewer(palette = "Set1") +
   scale_x_continuous(limits = c(0.1, 0.8)) +
-  labs(x = "Heimvorteil", y = NULL) +
+  labs(x = "Heimvorteil", y = NULL, 
+       title = "Messung des Heimvorteils für TSV-Teams",
+       subtitle = "Werte über 0.5 bedeuten, dass mehr Punkte in der Ringarena als auswärts geholt wurden.") +
   facet_wrap(~team) +
   theme(legend.position = "none")
 }
@@ -269,7 +278,9 @@ gg_top_home <- function(data = top_home_advantage) {
   scale_y_continuous(limits = c(0.5, 0.93)) +
   scale_x_continuous(breaks = nrow(data):1,
                         labels = data$team_season) +
-  labs(x = NULL, y = "Heimvorteil") +
+  labs(x = NULL, y = "Heimvorteil",
+       title = "Die 'ewige Bestenliste' des Heimvorteilrankings",
+       subtitle = "Jede Grafik zeigt die höchsten Werte seit der Saison 2010/11 \nfür jedes TSV-Team und die jeweiligen Gegner.") +
   theme(legend.position = "none")
 }
 ```
