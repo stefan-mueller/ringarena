@@ -201,7 +201,7 @@ ggplot(data = sis_long_tsv, aes(x = year, y = goals_team_match, colour = match_t
   scale_x_continuous(limits = c(2009.5, 2017.5), breaks = c(seq(2010, 2017, 1))) +
   scale_y_continuous(limits = c(20, 35)) +
   scale_colour_discrete(name = NULL, 
-                        labels = c("Auswärtsspiel", "Heimspiel")) +
+                        labels = c("Auswärtsspiele", "Heimspiele")) +
   facet_wrap(~team, ncol = 2, scales = "free_x") +
   geom_text(data = sis_long_tsv_text, aes(x = year, y = 34, label = league_place), size = 3, inherit.aes = FALSE) +
   theme(legend.position = "bottom") +
