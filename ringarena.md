@@ -2,7 +2,7 @@ Mythos Ringarena
 ================
 Stefan Müller
 
-Die Ringarena, Heimspielstätte der [TSV Bonn rrh.](http://tsv-bonn.de) (meines ehemaligen Heimatvereins), ist berühmt berüchtigt, sowohl bei den Beueler Handballern als auch bei den Gegnern. Die TSV'ler schätzen die Halle unter anderem wegen der Geselligkeit und Kaltgetränke im Räumchen, Auswärtsteams fürchten den "Schuhkarton" aufgrund der Enge und des kleinen Spielfelds.
+Die Ringarena, Heimspielstätte der [TSV Bonn rrh.](http://tsv-bonn.de) (mein geliebter Heimatverein), ist berühmt berüchtigt -- sowohl bei den Beueler Handballern als auch bei den Gegnern. Die TSV'ler schätzen die Halle unter anderem wegen der Geselligkeit und Kaltgetränke im Räumchen, Auswärtsteams fürchten den "Schuhkarton" aufgrund der Enge und des kleinen Spielfelds.
 
 Liest man Vorberichte der Gegner zu Auswärtsspielen bei der TSV, kommt die Halle an der Ringstraße häufig zur Sprache, eben weil sie so besonders ist. Doch birgt die Ringarena tatsächlich ein Vorteil für die Beueler Handballerinnen und Handballer?
 
@@ -10,7 +10,7 @@ Liest man Vorberichte der Gegner zu Auswärtsspielen bei der TSV, kommt die Hall
 
 Um das herauszufinden, habe ich alle Saisonspiele aller Seniorenmannschaften zwischen der Saison 2010/2011 und 2017/2018 von [SIS-Handball](http://sis-handball.de) automatisch gescraped. Der gesamte Code und die Daten sind [hier verfügbar](https://github.com/stefan-mueller/ringarena). Der Datensatz umfasst insgesamt 6420 Spiele.
 
-Mit diesem Datensatz lässt sich nun der "Heimvorteil" berechnen (siehe u.a. [Pollard et al. 2017](https://www.tandfonline.com/doi/abs/10.1080/24748668.2017.1372164) oder ein [Paper von Liam Kneafsey und mir](https://muellerstefan.net/papers/ijpas_kneafsey_mueller.pdf), das bald im *International Journal of Performance Analysis in Sport* veröffentlicht wird). Grob gesprochen kann der Wert für jedes Team in der Saison zwischen 0 und 1 liegen. Ein Wert von 1 bedeutet, dass alle Punkte daheim eingefahren wurde, eine 0 impliziert, dass ein Team Punkte lediglich auswärts errungen hat. Folglich markieren alle Werte über 0.5 einen Heimvorteil: das Team hat mehr Heim- als Auswärtspunkte gesammelt.
+Mit diesem Datensatz lässt sich nun der "Heimvorteil" berechnen (genauer beschrieben in einem [Paper von Liam Kneafsey und mir](https://muellerstefan.net/papers/ijpas_kneafsey_mueller.pdf), das bald im *International Journal of Performance Analysis in Sport* veröffentlicht wird). Grob gesprochen kann der Wert für jedes Team in der Saison zwischen 0 und 1 liegen. Ein Wert von 1 bedeutet, dass alle Punkte daheim eingefahren wurde, eine 0 impliziert, dass ein Team Punkte lediglich auswärts errungen hat. Folglich markieren alle Werte über 0.5 einen Heimvorteil: das Team hat mehr Heim- als Auswärtspunkte gesammelt.
 
 Schauen wir zunächst, ob es überhaupt einen Heimvorteil gibt. Hierfür plotte ich die Verteilung der Werte aller Teams (aufgesplittet nach TSV-Teams und Gegnern). Jeder Punkt zeigt eine Saison eines Teams. Der Median (roter horizontaler Balken) liegt in beiden Gruppen bei etwa 0.6. Ein Wert von 0.6 bedeutet, dass ein Team 60 Prozent der Punkte in einer Saison zuhause holt. Es gibt in der Nordrheinliga, der HVM-Ebene und auf Kreisebene eindeutig einen Heimvorteil.
 
