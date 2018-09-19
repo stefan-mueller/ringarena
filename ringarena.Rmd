@@ -8,7 +8,7 @@ output: github_document
 knitr::opts_chunk$set(warning = FALSE, echo = FALSE, message = FALSE)
 ```
 
-Die Ringarena, Heimspielstätte der [TSV Bonn rrh.](http://tsv-bonn.de) (meines ehemaligen Heimatvereins), ist berühmt berüchtigt, sowohl bei den Beueler Handballern als auch bei den Gegnern. Die TSV'ler schätzen die Halle unter anderem wegen der Geselligkeit und Kaltgetränke im Räumchen, Auswärtsteams fürchten den "Schuhkarton" aufgrund der Enge und des kleinen Spielfelds.
+Die Ringarena, Heimspielstätte der [TSV Bonn rrh.](http://tsv-bonn.de) (mein geliebter Heimatverein), ist berühmt berüchtigt -- sowohl bei den Beueler Handballern als auch bei den Gegnern. Die TSV'ler schätzen die Halle unter anderem wegen der Geselligkeit und Kaltgetränke im Räumchen, Auswärtsteams fürchten den "Schuhkarton" aufgrund der Enge und des kleinen Spielfelds.
 
 Liest man Vorberichte der Gegner zu Auswärtsspielen bei der TSV, kommt die Halle an der Ringstraße häufig zur Sprache, eben weil sie so besonders ist. Doch birgt die Ringarena tatsächlich ein Vorteil für die Beueler Handballerinnen und Handballer?
 
@@ -78,7 +78,7 @@ sis_tidy <- df_total %>%
                                   "Unentschieden")))
 ```
 
-Mit diesem Datensatz lässt sich nun der "Heimvorteil" berechnen (siehe u.a. [Pollard et al. 2017](https://www.tandfonline.com/doi/abs/10.1080/24748668.2017.1372164) oder ein [Paper von Liam Kneafsey und mir](https://muellerstefan.net/papers/ijpas_kneafsey_mueller.pdf), das bald im _International Journal of Performance Analysis in Sport_ veröffentlicht wird). Grob gesprochen kann der Wert für jedes Team in der Saison zwischen 0 und 1 liegen. Ein Wert von 1 bedeutet, dass alle Punkte daheim eingefahren wurde, eine 0 impliziert, dass ein Team Punkte lediglich auswärts errungen hat. Folglich markieren alle Werte über 0.5 einen Heimvorteil: das Team hat mehr Heim- als Auswärtspunkte gesammelt.
+Mit diesem Datensatz lässt sich nun der "Heimvorteil" berechnen (genauer beschrieben in einem [Paper von Liam Kneafsey und mir](https://muellerstefan.net/papers/ijpas_kneafsey_mueller.pdf), das bald im _International Journal of Performance Analysis in Sport_ veröffentlicht wird). Grob gesprochen kann der Wert für jedes Team in der Saison zwischen 0 und 1 liegen. Ein Wert von 1 bedeutet, dass alle Punkte daheim eingefahren wurde, eine 0 impliziert, dass ein Team Punkte lediglich auswärts errungen hat. Folglich markieren alle Werte über 0.5 einen Heimvorteil: das Team hat mehr Heim- als Auswärtspunkte gesammelt.
 
 ```{r}
 # convert to long format        
