@@ -8,7 +8,7 @@ Liest man Vorberichte der Gegner zu Auswärtsspielen bei der TSV, kommt die Hall
 
 ![Die Ringarena in Bonn-Beuel](ringarena.jpg)
 
-Um das herauszufinden, habe ich alle Saisonspiele aller Seniorenmannschaften zwischen der Saison 2010/2011 und 2017/2018 von [SIS-Handball](http://sis-handball.de) automatisch gescraped. Der gesamte Code und die Daten sind [hier verfügbar](https://github.com/stefan-mueller/ringarena). Der Datensatz umfasst insgesamt 6.420 Spiele.
+Um das herauszufinden, habe ich die Ergebnisse aller Spiele aus den Ligen der TSV-Senior/innen-Mannschaften zwischen der Saison 2010/2011 und 2017/2018 von [SIS-Handball](http://sis-handball.de) automatisch [gescraped](https://cran.r-project.org/web/packages/rvest/README.html). Der gesamte Code und die Daten sind [hier verfügbar](https://github.com/stefan-mueller/ringarena). Der Datensatz umfasst insgesamt 6.560 Spiele. In 585 dieser Spiele war eines der TSV-Teams beteiligt.
 
 Mit diesem Datensatz lässt sich nun der "Heimvorteil" berechnen (genauer beschrieben in einem [Paper von Liam Kneafsey und mir](https://muellerstefan.net/papers/ijpas_kneafsey_mueller.pdf), das bald im *International Journal of Performance Analysis in Sport* veröffentlicht wird). Grob gesprochen kann der Wert für jedes Team in der Saison zwischen 0 und 1 liegen. Ein Wert von 1 bedeutet, dass alle Punkte daheim eingefahren wurde, eine 0 impliziert, dass ein Team Punkte lediglich Auswärts errungen hat. Folglich markieren alle Werte über 0.5 einen Heimvorteil: das Team hat mehr Heim- als Auswärtspunkte gesammelt.
 
