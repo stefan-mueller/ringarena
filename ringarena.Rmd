@@ -15,7 +15,7 @@ Liest man Vorberichte der Gegner zu Auswärtsspielen bei der TSV, kommt die Hall
 ![Die Ringarena in Bonn-Beuel](ringarena.jpg)
 
 
-Um das herauszufinden, habe ich alle Saisonspiele aller Seniorenmannschaften zwischen der Saison 2010/2011 und 2017/2018 von [SIS-Handball](http://sis-handball.de) automatisch gescraped. Der gesamte Code und die Daten sind [hier verfügbar](https://github.com/stefan-mueller/ringarena). Der Datensatz umfasst insgesamt 6420 Spiele.
+Um das herauszufinden, habe ich alle Saisonspiele aller Seniorenmannschaften zwischen der Saison 2010/2011 und 2017/2018 von [SIS-Handball](http://sis-handball.de) automatisch gescraped. Der gesamte Code und die Daten sind [hier verfügbar](https://github.com/stefan-mueller/ringarena). Der Datensatz umfasst insgesamt 6.420 Spiele.
 
 ```{r}
 # load packages
@@ -78,7 +78,7 @@ sis_tidy <- df_total %>%
                                   "Unentschieden")))
 ```
 
-Mit diesem Datensatz lässt sich nun der "Heimvorteil" berechnen (genauer beschrieben in einem [Paper von Liam Kneafsey und mir](https://muellerstefan.net/papers/ijpas_kneafsey_mueller.pdf), das bald im _International Journal of Performance Analysis in Sport_ veröffentlicht wird). Grob gesprochen kann der Wert für jedes Team in der Saison zwischen 0 und 1 liegen. Ein Wert von 1 bedeutet, dass alle Punkte daheim eingefahren wurde, eine 0 impliziert, dass ein Team Punkte lediglich auswärts errungen hat. Folglich markieren alle Werte über 0.5 einen Heimvorteil: das Team hat mehr Heim- als Auswärtspunkte gesammelt.
+Mit diesem Datensatz lässt sich nun der "Heimvorteil" berechnen (genauer beschrieben in einem [Paper von Liam Kneafsey und mir](https://muellerstefan.net/papers/ijpas_kneafsey_mueller.pdf), das bald im _International Journal of Performance Analysis in Sport_ veröffentlicht wird). Grob gesprochen kann der Wert für jedes Team in der Saison zwischen 0 und 1 liegen. Ein Wert von 1 bedeutet, dass alle Punkte daheim eingefahren wurde, eine 0 impliziert, dass ein Team Punkte lediglich Auswärts errungen hat. Folglich markieren alle Werte über 0.5 einen Heimvorteil: das Team hat mehr Heim- als Auswärtspunkte gesammelt.
 
 ```{r}
 # convert to long format        
@@ -178,8 +178,9 @@ gg_home_density <- function(data = sis_home_advantage,
                       point_shape = '|', point_size = 3, alpha = 0.7) +
     facet_wrap(~team) +
     scale_x_continuous(limits = c(0, 1)) +
+    geom_vline(xintercept = 0.5, colour = "red", linetype = "dashed") +
     labs(x = "Heimvorteil", y = NULL,
-         title = "Die Verteilung des Heimvorteilsrankings für TSV-Teams und die jeweiligen Gegner", 
+         title = "Die Verteilung des Heimvorteilsrankings für TSV-Teams und Gegner", 
          subtitle = "Die kleinen vertikalen Striche zeigen die Verteilung der Wert.\nDer lange horizontale Strich markiert die Medianwert pro TSV-Team/Gegner.")
 }
 ```
@@ -194,7 +195,7 @@ Die zweite Damenmannschaft ist das einzige Team mit einem niedrigeren Medianwert
 gg_home_density(gender = "Damen")
 ```
 
-Der Datensatz erlaubt es, Änderungen im Zeitverlauf anzuschauen. Der folgende Plot zeigt die Anzahl an geworfenen TSV-Toren in Heim-und Auswärtsspielen pro Saison und Team. Oben befindet sich die Liga und Abschlussplatzierung. Fast immer liegt die blaue Linie über der roten - es wurden also mehr Tore im Durchschnitt in der Ringarena als auswärts erziehlt. Ausnahmen bildet die 2. Herren 2015/16, die Dritte in der vergangenen Saison und die 4. Herren 2010/2011. Einige interessante Beobachtunge. Seit der Saison 2015/16 hat die Anzahl an Toren bei der 1. Herren zugenommen bei der 2. Herren sehen wir einen negativen Trend im Zeitverlauf. Die "Dritte" hat einen klaren positiven Ausreißer im Jahr 2013/14, als die Kreismeisterschaft errungen wurde. Der Trend der Vierten Herren zeigt seit 2015 deutlich nach oben. Verjüngung des Kaders, x-ter Frühling der Oldies oder Mischung aus beidem? Außerdem wird die Heimdominanz der 1. Damen in den vergangenen zwei Spielzeiten sehr deutlich.
+Der Datensatz erlaubt es, Änderungen im Zeitverlauf anzuschauen. Der folgende Plot zeigt die Anzahl an geworfenen TSV-Toren in Heim-und Auswärtsspielen pro Saison und Team. Oben befindet sich die Liga und Abschlussplatzierung. Fast immer liegt die blaue Linie über der roten - es wurden also mehr Tore im Durchschnitt in der Ringarena als Auswärts geworfen. Ausnahmen bildet die 2. Herren 2015/16, die Dritte in der vergangenen Saison und die 4. Herren 2010/2011. Einige interessante Beobachtunge. Seit der Saison 2015/16 hat die Anzahl an Toren bei der 1. Herren zugenommen bei der 2. Herren sehen wir einen negativen Trend im Zeitverlauf. Die "Dritte" hat einen klaren positiven Ausreißer im Jahr 2013/14, als die Kreismeisterschaft errungen wurde. Der Trend der Vierten Herren zeigt seit 2015 deutlich nach oben. Verjüngung des Kaders, x-ter Frühling der Oldies oder Mischung aus beidem? Außerdem wird die Heimdominanz der 1. Damen in den vergangenen zwei Spielzeiten sehr deutlich.
 
 ```{r, fig.width=8, fig.height=10}
 ggplot(data = sis_long_tsv, aes(x = year, y = goals_team_match, colour = match_type, shape = match_type)) +
@@ -213,7 +214,7 @@ ggplot(data = sis_long_tsv, aes(x = year, y = goals_team_match, colour = match_t
        subtitle = "Graue Flächen zeigen Konfidenzintervalle; Saisonplatzierung und Ligaabkürzung im oberen Teil der Grafik.")
 ```
 
-Nun schauen wir auf den Heimvorteil pro Saison und Team. Grüne Balken zeigen, dass mehr Punkte in der Ringarena als in fremden Hallen gesammelt wurden. Bis auf drei Saisons (1. und 2. Herren in 2010/2011 und 2. Damen 2015/2016) haben alle TSV-Seniorenteams mehr Punkte in der Ringarena als auswärts geholt. 
+Nun schauen wir auf den Heimvorteil pro Saison und Team. Grüne Balken zeigen, dass mehr Punkte in der Ringarena als in fremden Hallen gesammelt wurden. Bis auf drei Saisons (1. und 2. Herren in 2010/2011 und 2. Damen 2015/2016) haben alle TSV-Seniorenteams mehr Punkte in der Ringarena als Auswärts geholt. 
 
 ```{r}
 # filter only TSV teams from home advantage calculation
@@ -277,6 +278,7 @@ gg_top_home <- function(data = top_home_advantage) {
   scale_y_continuous(limits = c(0.5, 0.93)) +
   scale_x_continuous(breaks = nrow(data):1,
                         labels = data$team_season) +
+  geom_hline(yintercept = 0.5, colour = "red", linetype = "dashed") +
   labs(x = NULL, y = "Heimvorteil",
        title = "Die „ewige Bestenliste“ des Heimvorteilrankings",
        subtitle = "Jede Grafik zeigt die höchsten Werte seit der Saison 2010/11 \nfür jedes TSV-Team und die jeweiligen Gegner.") +
@@ -288,7 +290,7 @@ gg_top_home <- function(data = top_home_advantage) {
 gg_top_home(data = top_home_advantage_male)
 ```
 
-```{r,fig.width=8, fig.height=5}
+```{r,fig.width=8, fig.height=6}
 gg_top_home(data = top_home_advantage_female)
 ```
 
